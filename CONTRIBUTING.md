@@ -13,17 +13,16 @@ Here's how content is organised on the website:
 1. Files for pages available in the menu bar at the top of the website are available in the root folder i.e.
 
 - index.html
-- get-started.html
-- resources.html
+- in-person.html
+- online.html
 - case-studies.html
-- policies.html
-- contact.html
+- contributing.html
+
 
 2. Any associated files that make up specific sections of these pages i.e.
 
 - about.html
-- contributors.html
-- events-map.html
+- footer.html
 
 and more are available under the [_includes](/_includes) folder.
 
