@@ -1,0 +1,15 @@
+navigation:
+- text: In-Person Events
+  relative_url: in-person
+  url: /in-person.html
+- text: Online Events
+  relative_url: online
+  url: /online.html
+- text: Case Studies
+  relative_url: case-studies
+  url: /case-studies.html
+- text: Contribute
+  relative_url: contribute
+  url: /contribute.html
+markdown: kramdown
+
