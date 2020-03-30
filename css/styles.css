@@ -773,7 +773,7 @@ body.case-studies .heading h1:before {
 body.contribute .heading h1:before {
     background-image: url(/img/watermark_carpentryconnect.png);
     left: -100px;
-
+}
 /* = Tables = */
 table {
     border-collapse: collapse;
