@@ -8,43 +8,27 @@ The underlying code for CarpentryConnect website is a fork of [Project Zepellin]
 
 Here's how content is organised on the website:
 
-## HTML files
-
-1. Files for pages available in the menu bar at the top of the website are available in the root folder i.e.
-
-- index.html
-- in-person.html
-- online.html
-- case-studies.html
-- contributing.html
-
-
-2. Any associated files that make up specific sections of these pages i.e.
-
-- about.html
-- footer.html
-
-and more are available under the [_includes](/_includes) folder.
-
 ## Markdown files
 
-The Case Studies feed on the website is made possible by Markdown files published under the [_posts](/_posts) folder.
+Files for pages available in the menu bar at the top of the website are available in the root folder i.e.
+
+- index.markdown
+- in-person.markdown
+- online.markdown
+- case-studies.markdown
+- contributing.markdown
+
+
+## Stylesheet
+All associated styling that makes pages in this resource readable and aesthetically pleasing can be found in the [css](/css) folder.  
 
 
 ## YAML files
 
 YAML files are a human-readable way to feed data into our website.
 
-1. [_config.yml](/_config.yml) holds information about 
+- [_config.yml](/_config.yml) holds information about navigation settings.
 
-- site settings
-- the case studies page and more
-
-2. YAML files in the [_data](/_data) folder hold specific information about
-
-- community members involved in of planning for various CarpentryConnects
-- resource curation personnel information ( The Carpentries Core Team in this case)
-- partner and sponsor information for past CarpentryConnect events
 
 Be careful about spacing when working with YAML files. When in doubt / experiencing errors, use a linter service like [YAMLlint](http://www.yamllint.com) to validate your additions. 
 
@@ -79,6 +63,3 @@ This looks at your GEMFILE and installs all ruby gems listed in it.
 
 We welcome any questions you may have about setting up or contributing to this website repository in the [issues](/issues) section of this repository.
 
-## Project Zeppelin repository
-
-The Project Zeppelin team has extensive documentation available [here](https://github.com/gdg-x/zeppelin/wiki).
