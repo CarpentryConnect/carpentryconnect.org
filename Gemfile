@@ -1,0 +1,2 @@
+# Plugins
+gem "jekyll-sitemap"
