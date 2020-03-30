@@ -1,0 +1,105 @@
+{% for link in site.navigation %}
+	{% if page.url == link.url %}
+		{% assign bodyclass = link.relative_url %}
+	{% endif %}
+{% endfor %}
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lt-ie9" lang="en"><![endif]-->
+<!--[if gte IE 9]><!-->
+<html lang="en">
+<!--<![endif]-->
+	<head>
+		<meta charset="UTF-8" />
+
+		<base href="/" />
+
+		<title>{{ page.title }} | CarpentryConnect Planning Kit</title>
+		<meta name="description" content="{{ page.title }} | CarpentryConnect Planning Kit" />
+
+		<title> CarpentryConnect Planning Kit</title>
+		<meta name="description" content="resource to help plan for local and regional Carpentries community events" />
+		<meta name="web_author" content="Carpentries Core Team | carpentries.org" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="shortcut icon" href="/img/favicon.png" />
+		<link rel="apple-touch-icon" href="/img/touch-icon.png">
+		<link rel="stylesheet" type="text/css" href="/css/styles.css" media="all" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous">
+		<script src="https://use.typekit.net/uzj8mcd.js"></script>
+		<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	</head>
+	<body class="{{ bodyclass }}">
+		<div class="header_container" id="top">
+			<header class="group container primary">
+				<div class="branding">
+					<a href="/">
+						CarpentryConnect Planning Kit
+					</a>
+				</div>
+				<nav class="primary">
+					<ul id="menu" class="menu">
+						{% for link in site.navigation %}
+							{% if page.url == link.url %}
+								{% assign class = 'active' %}
+							{% else %}
+								{% assign class = '' %}
+							{% endif %}
+							<li class="{{ class }}">
+							<a href="{{ link.relative_url }}">{{ link.text }}</a>
+							</li>
+						{% endfor %}
+					</ul>
+				</nav>
+			</header>
+		</div>
+		<div class="heading">
+			<h1>{{ page.title }}</h1>
+		</div>
+
+		<div class="container torso">
+			<aside class="primary">
+				<section class="toc">
+					<nav class="secondary">
+					</nav>
+				</section>
+			</aside>
+			<div class="main" role="main">
+				{{ content }}
+			</div>
+		</div>
+
+		<footer class="primary">
+			<div class="footer_container" >
+				<img src="/img/carpentries_badge.png" alt="" />
+			</div>
+			<div class="footer_container">
+				<p>
+					This resource is the handiwork of <a href="https://carpentries.org">The Carpentries</a>.
+					<br> 
+					Questions about this resource? <a href="mailto:community@carpentries.org?subject=CarpentryConnect Planning Kit">Contact Us</a>
+				</p>
+			</div>
+			<div class="footer_container">
+				<p>
+					<a href="https://docs.carpentries.org/topic_folders/policies/index_coc.html">The Carpentries Code of Conduct</a>
+				</p>
+				<p>
+					<a href="https://github.com/carpentryconnect/carpentryconnect.org">CarpentryConnect on GitHub</a>
+				</p>
+			</div>
+		</footer>
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script src="js/plugins/sticktotop.plugin.js"></script>
+		<script src="js/template.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
+		<script>hljs.initHighlightingOnLoad();</script>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-6769990-6', 'imarc.net');
+			ga('send', 'pageview');
+		</script>
+	</body>
+</html>
