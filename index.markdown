@@ -73,7 +73,7 @@ Is anything missing from this first version of our CarpentryConnect Planning Kit
 
 ### CarpentryCon
 
-Conferences by The Carpentries that bring together community members from around the world for 2-3 days of networking, knowledge exchange and collaborative work. Carpentries Core Team work side by side with community members to organise and run CarpentryCons.
+Conferences by The Carpentries that are held every (other) year, and which bring together community members from around the world for 2-3 days of networking, knowledge exchange and collaborative work. Carpentries Core Team work side by side with community members to organise and run CarpentryCons.
 
 ### CarpentryConnect
 
