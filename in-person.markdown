@@ -43,9 +43,9 @@ This two-part checklist suggests preparatory tasks you can embark on before divi
 - [optional] In case this would be valuable for you, schedule a call with our Director of Community Development and Engagement to discuss your idea and chat about your wishlist and next steps. You can do that by emailing [community@carpentries.org](mailto:community@carpentries.org) 
 - Reach out to community members via The Carpentries Slack channel or TopicBox to share your idea and interest in finding others to help organise a CarpentryConnect in your region, and include as many details as possible
 - Once you have identified several community members that would be interested,
-	- follow up on email and pin down a time for a first meeting,
-	- create an Etherpad on pad.carpentries.org and share it in the email asking people to share their ideas and questions around the CarpentryConnect proposal in it
-	- Send a calendar invite to people who expressed interest, labelling your meeting invite virtual CarpentryConnect [City] chat or something equally descriptive
+	- create an Etherpad on pad.carpentries.org and share it in the email asking people to share their ideas and questions around the CarpentryConnect proposal in it. More information on what Etherpads are, and how we use them in The Carpentries [can be found here](https://docs.carpentries.org/topic_folders/communications/tools/etherpads.html).
+	- email the community members who are interested and include the Etherpad link. Ask them to share their ideas and questions around the CarpentryConnect proposal
+	- Send a calendar invite to people who expressed interest, labelling your meeting invite _**Virtual CarpentryConnect [City]**_ chat or something equally descriptive
 	- A few hours before the first meeting, take time to read and organise everyone’s questions and ideas in the Etherpad into themes, and designate time blocks for discussion of each item to make sure everything is covered in the time you have for your meeting
 	- Leave plenty of time to discuss next steps and agree on a date for the next meeting
 	- Send an email summarising discussions, highlighting key action points and if possible, with a question to keep discussions going between present day and your next check-in meeting

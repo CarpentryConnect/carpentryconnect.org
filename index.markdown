@@ -48,9 +48,9 @@ With this resource, we hope to lower the barrier to entry in putting together th
 
 ### A Brief History
 
-Very shortly after we held [CarpentryCon 2018](https://2018.carpentrycon.org/) in Dublin, Ireland, there was interest from the community to organise smaller local meetings that could have different formats, including wanting to include training for people currently outside the community (workshops or workshop modules) to serve local community and their needs and be more accessible for people in that region who might not be able to travel. Discussions around this were partly inspired by JupyterDays, PyCon Region and OpenCon conference models. 
+Right around the time we held [CarpentryCon 2018](https://2018.carpentrycon.org/) in Dublin, Ireland, there was interest from the community to organise smaller local meetings that could have different formats, including training for people currently outside the community (workshops or workshop modules) to serve local community and their needs and be more accessible for people in that region who might not be able to travel. Discussions around this were partly inspired by JupyterDays, PyCon Regional and OpenCon conference models. 
 
-Initially, we had no guidelines on the naming of local, regional and global events - all were dubbed CarpentryCons at the beginning. The Carpentries Core Team and CarpentryCon Task Force had discussions about this, and agreed that it would be helpful to draw a clear distinction between global and regional / local meetings.The rationale for differentiation was 
+Initially, we had no guidelines on the naming of local, regional and global events - all were dubbed CarpentryCons at the beginning. The Carpentries Core Team and CarpentryCon Task Force had discussions about this in 2018, and agreed that it would be helpful to draw a clear distinction between global and regional / local meetings.The rationale for differentiation was 
 <ol style="list-style-type: lower-alpha;">
 <li>to not draw people away from the global CarpentryCon convenings by having what seems to be the same thing in many regions, </li>
 <li>to allow for more variability in how the meeting is organised. Local and regional meetings need not follow CarpentryCon’s framework and their format could even change from one region to the next, </li>
@@ -66,7 +66,7 @@ There also needed to be an added layer of specificity in the naming convention a
 
 While CarpentryConnect meetings have less direct oversight by The Core Carpentries Team, we still want them to represent The Carpentries well and exude our community values and inclusive practices. We are also aware that enthusiasm to run a great event can be quickly curtailed by overwhelm for anyone who has not organised such an event before. For these reasons, we are launching our new CarpentryConnect Planning Kit to guide community members in planning great CarpentryConnect events.
 
-Is anything missing from this first version of our CarpentryConnect Planning Kit? Email [community@carpentries.org](mailto:community@carpentries.org) or open an issue on the [CarpentryConnect Planning Kit repository](github.com/carpentryconnect/carpentryconnect.org) on GitHub and we will work together to improve the resource. Community contributions are also welcome. You can find sections to contribute to, and information on how to start contributing in the Contributing section of the CarpentryConnect Planning Kit.
+Is anything missing from this first version of our CarpentryConnect Planning Kit? Email [community@carpentries.org](mailto:community@carpentries.org) or open an issue on the [CarpentryConnect Planning Kit repository](https://github.com/CarpentryConnect/carpentryconnect.org) on GitHub and we will work together to improve the resource. Community contributions are also welcome. You can find sections to contribute to, and information on how to start contributing in the [contributing section](/contribute) of the CarpentryConnect Planning Kit.
 
 
 ## Definition of Terms
