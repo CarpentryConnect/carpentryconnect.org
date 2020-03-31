@@ -5,7 +5,7 @@ layout: default
 
 <section class="intro">
 	<p>
-		This document outlines Imarc’s creative process and deliverables. <a href="https://www.imarc.com">Imarc</a> is a full service web development and design firm with offices near Boston and Silicon Valley.
+	This section highlights the experience of Carpentries community members that have successfully run CarpentryConnects in the past. If you would like us to feature your CarpentryConnect event in a case study, [see our contribution guidelines](/contribute).
 	</p>
 </section>
 
