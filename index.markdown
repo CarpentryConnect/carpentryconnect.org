@@ -44,7 +44,7 @@ We prioritised the development of a first version of this resource in Q1 2020 be
 - local and regional Carpentries convenings outside of instructor training and Carpentries workshops  have become more popular in the last year, and 
 - community members are currently responsible for the planning and execution of the events with minimal input from the Core Carpentries team, 
 
-With this resource, we hope to lower the barrier to entry in putting together these events, so community members feel empowered to organise for plenty of meetups that add value to their work, and want to help standardise formats and uphold the quality of Carpentries  events that are run in regional and local settings. 
+With this resource, we hope to lower the barrier to entry in putting together these events, so community members feel empowered to organise for plenty of convenings that add value to their work, and want to help standardise formats and uphold the quality of Carpentries  events that are run in regional and local settings. 
 
 ### A Brief History
 
@@ -80,6 +80,8 @@ Conferences by The Carpentries that are held every (other) year, and which bring
 Local or regional events where Carpentries community members convene for more focussed discussions and local community building. These events are primarily organised by The Carpentries community members in specific regions with minimal input from The Carpentries Core Team. 
 
 By definition, CarpentryConnects should span for at least one day and cover discussions and sessions that are not Carpentries Workshops or Carpentries Instructor Training.
+
+### Carpentries Meetups / CarpenTeas
 
 Local community convenings that take place over a few hours, or repeat periodically, would be considered _Carpentries Meetups_ or _CarpenTeas_ rather than CarpentryConnects.
 
