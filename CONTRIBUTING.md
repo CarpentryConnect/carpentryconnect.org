@@ -5,7 +5,7 @@ layout: default
 
 <section class="intro">
 	<p>
-		When contributing to this CarpentryConnect Website repository, please first discuss the change you wish to make with this repository's maintainers via [this repository's issue tracker](/issues) or [email](community@carpentries.org) before dedicating time to make big, time-consuming changes.
+		When contributing to this CarpentryConnect Website repository, please first discuss the change you wish to make with this repository's maintainers via <a href="/issues">this repository's issue tracker</a> or <a href ="mailto:community@carpentries.org">email</a> before dedicating time to make big, time-consuming changes.
 	</p>
 </section>
 
