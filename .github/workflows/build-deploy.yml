@@ -17,7 +17,7 @@ jobs:
         ruby-version: 2.5
     - name: Install Jekyll
       run: |
-        gem intall bundler
+        gem install bundler
         bundle install --jobs 4 --retry 3
         bundle exec jekyll build --trace
     - uses: jakejarvis/s3-sync-action@master
