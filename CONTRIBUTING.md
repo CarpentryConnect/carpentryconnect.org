@@ -28,21 +28,22 @@ Files for pages available in the menu bar at the top of the website are availabl
 
 
 ### Stylesheet
-All associated styling that makes pages in this resource readable and aesthetically pleasing can be found in the [css](/css) folder.  
+
+All associated styling that makes pages in this resource readable and aesthetically pleasing can be found in the [css](https://github.com/CarpentryConnect/carpentryconnect.org/tree/master/css) folder.
 
 
 ### YAML files
 
 YAML files are a human-readable way to feed data into our website.
 
-- [_config.yml](/_config.yml) holds information about navigation settings.
+- [_config.yml](https://github.com/CarpentryConnect/carpentryconnect.org/blob/master/_config.yml) holds information about navigation settings.
 
 
 Be careful about spacing when working with YAML files. When in doubt / experiencing errors, use a linter service like [YAMLlint](http://www.yamllint.com) to validate your additions. 
 
 ### Image Files
 
-All image files are in the [img](/img) folder.
+All image files are in the [img](https://github.com/CarpentryConnect/carpentryconnect.org/tree/master/img) folder.
 
 ## Setting Up a Local Instance
 
@@ -69,10 +70,10 @@ This looks at your GEMFILE and installs all ruby gems listed in it.
 
 ### Submit an Issue
 
-We welcome any questions you may have about setting up or contributing to this website repository in the [issues](/issues) section of this repository.
+We welcome any questions you may have about setting up or contributing to this website repository in the [issues](https://github.com/CarpentryConnect/carpentryconnect.org/issues) section of this repository.
 
 ### Email us
 
-Where email is preferred, you can reach out to us on [community@carpentries.org](community@carpentries.org).
+Where email is preferred, you can reach out to us on [community@carpentries.org](mailto:community@carpentries.org).
 
 
