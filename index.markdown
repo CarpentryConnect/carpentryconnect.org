@@ -93,6 +93,11 @@ These are local or regional events of the Carpentries that are held in a physica
 
 These are local or regional events of the Carpentries that are run online
 
+### Birds-of-a-Feather Sessions
+
+An informal discussion group, typically at a conference, based on a shared interest and without any fixed agenda.
+
+
 
 ## Using This Resource
 
