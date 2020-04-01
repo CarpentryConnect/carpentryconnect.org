@@ -51,11 +51,23 @@ This two-part checklist suggests preparatory tasks you can embark on before divi
 	- Send an email summarising discussions, highlighting key action points and if possible, with a question to keep discussions going between present day and your next check-in meeting
 - Find events in your city that would be relevant to The Carpentries community, and investigate if there are opportunities to co-locate your event. 
 
-	Some CarpentryConnects, like CarpentryConnect Dunedin 2020 and CarpentryConnect DC 2020, were organised as co-located events a day prior to tech, research, data and science conferences that attract many Carpentries community members. Examples of great regional conferences to consider organising your CarpentryConnect around would be regional PyCon, PyData, RStats, csv,conf, conferences for Research Software Engineers, and more.
+	Some CarpentryConnects, like CarpentryConnect Dunedin 2020 and CarpentryConnect DC 2020, were organised as co-located events a day prior to tech, research, data and science conferences that attract many Carpentries community members. Examples of great regional conferences to consider organising your CarpentryConnect around are FOSDEM, regional PyCon, PyData, RStats and csv,conf conferences, or conferences for Research Software Engineers, LIBER Annual Conference, and more.
 
+	<div markdown="1" class="reading">
+	**CarpentryConnect DC was scheduled to take place on 13 May 2020**.
+	
+	Due to COVID-19, the event has been postponed to a later date. We appreciate all DC community members that dedicated their time to planning the event so far.
+	</div>
+	
 	Throughout the year, there are also topical weeks that encourage professionals from different domains to collaborate at least once a year. Organising a CarpentryConnect around these topical weeks makes it easier to bring people together, and for event organisers to apply for grant funding to make these events possible. Examples of topical weeks to consider organising your CarpentryConnect event around include Open Data Week which culminates in OKFN’s Open Data Day, Digital Ocean’s HacktoberFest, Open Access Week, and more.
 	
 - Once you have identified at least three of these four things:  city,  venue, date range and community members to help you put together a CarpentryConnect event - you can start using the next checklist (I am in the early stages of planning for a CarpentryConnect!)
+
+### I am in the early stages of planning for a CarpentryConnect!
+
+This section assumes that you have an idea about these four things for your event: city,  venue, date range and community members to help you put together a CarpentryConnect event. If not, [start here](/in-person#IjusthadanideatobringpeopletogetherinaCarpentryConnect). Let the Community Development Team in The Carpentries know that you have an idea for or are planning a CarpentryConnect by emailing [community@carpentries.org](mailto:community@carpentries.org) with as many details as possible. 
+- As you have some intricate details at hand already, consider writing a blog post detailing your knowns and unknowns, and with clear calls to action about how others can get involved. We have prepared a few prompts [in this Google doc](https://docs.google.com/document/d/1Yl4EnbeDdjHxoxinTIS7Meu68gfqwmCvHULQ2f1Lenc/edit?usp=sharing) to guide the writing of your blog post. Submit your blog post for publishing on The Carpentries blog by emailing [community@carpentries.org](mailto:community@carpentries.org).
+- Dive into the rest of the In-person CarpentryConnect Planning Kit!
 
 <div markdown="1" class="reading">
 **A note to everyone with ideas for Carpentry Connect events:**
@@ -65,12 +77,6 @@ Sometimes the outcome of your first discussion is a decision to organise a small
 
 You can find our Virtual CarpentryConnect Planning Kit [here](/online).
 </div>
-
-### I am in the early stages of planning for a CarpentryConnect!
-
-This section assumes that you have an idea about these four things for your event: city,  venue, date range and community members to help you put together a CarpentryConnect event. If not, [start here](/in-person#IjusthadanideatobringpeopletogetherinaCarpentryConnect). Let The Core Carpentries Team know that you have an idea for or are planning a CarpentryConnect by emailing [community@carpentries.org](mailto:community@carpentries.org) with as many details as possible. 
-- As you have some intricate details at hand already, consider writing a blog post detailing your knowns and unknowns, and with clear calls to action about how others can get involved. We have prepared a few prompts [in this Google doc](https://docs.google.com/document/d/1Yl4EnbeDdjHxoxinTIS7Meu68gfqwmCvHULQ2f1Lenc/edit?usp=sharing) to guide the writing of your blog post. Submit your blog post for publishing on The Carpentries blog by emailing [community@carpentries.org](mailto:community@carpentries.org).
-- Dive into the rest of the In-person CarpentryConnect Planning Kit!
 
 ## Designing a CarpentryConnect Program
 
@@ -312,7 +318,7 @@ Less popular sessions / themes from your community engagement exercise ablove ne
 If you answered yes to any of these prompts, congratulations! You have identified some interesting topics to discuss in different sessions in your CarpentryConnect event. 
 
 ### Brainstorm with The Carpentries Core Team
-Email [community@carpentries.org](mailto:community@carpentries.org) with your request to chat about possible session themes for your CarpentryConnect event and some members of the Core Team will avail themselves for a chat with your local/regional event organisers.
+Email [community@carpentries.org](mailto:community@carpentries.org) with your request to chat about possible session themes for your CarpentryConnect event and  members of the Community Development Team in The Carpentries will avail themselves for a chat with your local/regional event organisers.
 
 ## Creating a Website for Your CarpentryConnect Event
 Website Templates to Use
