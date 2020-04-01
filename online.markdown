@@ -42,8 +42,9 @@ This two-part checklist suggests preparatory tasks you can embark on before divi
 - [optional] In case this would be valuable for you, schedule a call with our Director of Community Development and Engagement to discuss your idea and chat about your wishlist and next steps. You can do that by emailing [community@carpentries.org](mailto:community@carpentries.org). 
 - Reach out to community members via The Carpentries Slack channel or TopicBox sharing your idea and interest in finding others to help organise a CarpentryConnect in your region, including as many details as possible
 - Once you have identified several community members that would be interested,
-	- follow up on email and pin down a time for a first meeting,
-	- create an Etherpad on pad.carpentries.org and share it in the email asking people to share their ideas and questions around the virtual CarpentryConnect proposal in it
+- create an Etherpad on pad.carpentries.org and share it in the email asking people to share their ideas and questions around the CarpentryConnect proposal in it
+More information on what Etherpads are, and how we use them in The Carpentries [can be found here](https://docs.carpentries.org/topic_folders/communications/tools/etherpads.html).
+- email the community members who are interested and include the Etherpad link. Ask them to share their ideas and questions around the CarpentryConnect proposal
 	- Send a calendar invite to people who expressed interest, labelling your meeting invite virtual CarpentryConnect [City] chat or something equally descriptive
 	- A few hours before the first meeting, take time to read and organise everyone’s questions and ideas in the Etherpad into themes, and designate time blocks for discussion of each item to make sure everything is covered in the time you have for your meeting
 	- Leave plenty of time to discuss next steps and agree on a date for the next meeting
@@ -56,7 +57,7 @@ Sometimes the outcome of your first discussion is a decision to organise a small
 </div>
 
 ### I am in the early stages of planning for a CarpentryConnect!
-This section assumes that you have an idea about these four things for your event: city,  venue, date range and community members to help you put together a CarpentryConnect event. If not, [start here](/online#IjusthadanideatobringpeopletogetherinaCarpentryConnect). 
+This section assumes that you have an idea about these three things for your event: city/region, date range and community members to help you put together a CarpentryConnect event. If not, [start here](/online#IjusthadanideatobringpeopletogetherinaCarpentryConnect). 
 
 Let The Core Carpentries Team know that you have an idea for or are planning a CarpentryConnect by emailing [community@carpentries.org](mailto:community@carpentries.org) with as many details as possible. 
 - As you have some intricate details at hand already, consider writing a blog post detailing your knowns and unknowns, and with clear calls to action about how others can get involved. Here are a few prompts to guide the writing of your blog post. Submit your blog post for publishing on The Carpentries blog by emailing [community@carpentries.org](mailto:community@carpentries.org)
@@ -72,7 +73,7 @@ We recommend running your virtual  keynote, panel and other regular talk session
 
 ### Breakout Sessions
 
-Birds of a Feather sessions are a good example of breakout sessions in a conference setup. In a virtual event, breakout sessions present a good opportunity for event attendees to self-organise. As the event organiser:
+[Birds-of-a-Feather sessions](#BirdsofaFeatherSessions) are a good example of breakout sessions in a conference setup. In a virtual event, breakout sessions present a good opportunity for event attendees to self-organise. As the event organiser:
 - block time in your event program for breakout sessions to take place
 - create a central resource like a document for attendees to share details about their self-organised breakout sessions. Helpful prompts to include in this document include:
 	- breakout session discussion topic
@@ -125,12 +126,12 @@ Here are some community facilitator roles, and checklists for responsibilities t
 		- is the speaker able to pre-record a version of their presentation so it can be shared with others in case they are unavailable on the day?
 	- share code of conduct, expected behaviour, and best practises for presenting at your online event
 - Liaise with other community facilitators to confirm that everyone understands their role, and to discuss who can take on roles that are unfilled i.e.
-	- work with code of conduct facilitators to design rubric to help with quick decision making in sessions
-	- invite communication facilitators to share their plans for what is essential to communicate before, during and after the virtual event, adding suggestions, and edits as needed so tone of communications is consistent throughout your event
+	- work with code of conduct facilitators (role described below) to design rubric to help with quick decision making in sessions
+	- invite communication facilitators (role described below) to share their plans for what is essential to communicate before, during and after the virtual event, adding suggestions, and edits as needed so tone of communications is consistent throughout your event
 - Invite Code of Conduct Facilitators to summarise event Code of Conduct to session attendees at the start of a virtual event
 - Notify community about intentions to record the session, and offer guidelines for people that want to participate but not be identified in the call i.e. 
 	- turn off your video and sound for the duration of the call
-	- ask questions in a doc that allows anonymity i.e. Etherpad, or send direct messages to the call host rather than post in the call chat, etc
+	- ask questions in a document that allows anonymity i.e. Etherpad, or send direct messages to the call host rather than post in the call chat, etc
 - Introduce speakers at the start of their session in the online event
 - Record the actual session after introducing the speaker(s)
 - Skim through questions raised during the presentation and decide which ones to prioritise for the time slotted for Q&A
@@ -142,17 +143,21 @@ Here are some community facilitator roles, and checklists for responsibilities t
 -	organise the editing and publishing of the recorded session for access by others
 
 ### Code of Conduct Facilitators
-
-- introduce themselves at start of the event and summarise event Code of Conduct to session attendees
+Code of Conduct Facilitators](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md#recommendation-2-volunteer-code-of-conduct-facilitators) serve as an added layer of support to report incidents to the Code of Conduct Committee (CoCc). Code of Conduct Facilitators actively monitor online spaces during the event and are the in-person point of contact to provide support and guidance to report potential breach of the Code of Conduct to the CoCc. To efficiently serve as a bridge with the CoCc, Code of Conduct facilitators:
+- liaise with the call hosts and introduce themselves at start of the event and summarise event Code of Conduct to session attendees
 - provide clear and straightforward ways for people to reach out to flag CoC issues in the virtual session
 	- preferably in a separate place from the event chat
 	- should be easy to save content as it is typed
-	- consider employing use of a
-		- google form with prompts to guide in reporting
-		- providing an email address for open-ended reporting
-- describe workflow and expected timelines once someone reports an issue to help with accountability, follow-up and managing expectations
+- describe workflow and expected timelines once someone reports an issue to help with accountability, follow-up and managing expectations. Code of Conduct facilitators need to read our [incident reporting and response guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and understand how to report a Code of Conduct Incident with the Carpentries committee.
 - liaise with call hosts in backchannel to enforce rubrics designed before event to quickly act on Code of Conduct issues during the virtual session i.e. expunge bad actors from the call to prevent unnecessary disruption, etc
-	- add in these guidelines for managing bad actors in Zoom, and credit Alex Miller
+- handle information shared with utmost care, discretion, and pledge to not divulge any information that would be shared with them with anyone
+- communicate with the Code of Conduct committee as appropriate
+The CoCc handles the rest of the process. For more information, please [read our incident response procedure for the carpentries code of conduct committee](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-procedure-for-the-carpentries-code-of-conduct-committee).
+
+<div markdown="1" class="reading">
+**Recommended resources**
+ - [Here are some helpful guidelines](https://twitter.com/alexlmiller/status/1240073789586714626) for managing bad actors in Zoom, as authored by Alex Miller on Twitter
+</div>
  
 ### Communications Facilitators
 
@@ -258,7 +263,7 @@ Here's a checklist to help virtual event organisers plan for post-event wrap up 
 	- where will collaborative notes from all sessions be linked from?
 	- where can attendees share their post-event think pieces?
 	- where can session presenters and session attendees continue their discussions?
-- Design a post-event survey, to help capture the feedback of your session presenters and attendees. 
+- Design a post-event survey, to help capture the feedback of your session presenters and attendees. [Here's an example of a post-event survey](https://www.surveymonkey.com/r/carpentrieslongtermassessment) with questions you can ask
 - Run an organiser’s retrospective, to help garner feedback from co-organisers
 - Develop a template document with some open-ended, broad-range questions to help your event attendees write their wrap-up blog posts
 

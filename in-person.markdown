@@ -167,7 +167,7 @@ If a panel session is preferred:
 These sessions allow participants 3-7 minutes on stage to talk about something interesting, and share a call-to-action or several for the audience. Presenters are typically allowed 1-5 slides to keep their talks short and sweet.
 
 #### Unconference Sessions
-These are sessions whose topics are pitched at your event to allow attendees to decide which topics interest them. These sessions have a facilitator and can take any form decided on by participants. Unconference sessions take on a broad question and open them up for discussion by attendees. In shorter events, Birds-of-a-Feather sessions are examples of unconference sessions.
+These are sessions whose topics are pitched at your event to allow attendees to decide which topics interest them. These sessions have a facilitator and can take any form decided on by participants. Unconference sessions take on a broad question and open them up for discussion by attendees. In shorter events, [Birds-of-a-Feather sessions](#BirdsofaFeatherSessions) are examples of unconference sessions.
 
 #### The Hallway Track {#TheHallwayTrack}
 
@@ -178,7 +178,7 @@ For attendees that may prefer quiet time to get work done, or rest and reflect o
 - reserving a nursing room for parents to attend to their little ones
 
 For people that may prefer to work collaboratively and network over their breaks, consider:  
-- listing rooms or round tables that will be open during breaks on a common board (say, by the registration desk) and having people specify what Birds-of-a-Feather sessions will be held in each one. To remain fair, rooms or round tables should be allocated on a first-come-first-served basis
+- listing rooms or round tables that will be open during breaks on a common board (say, by the registration desk) and having people specify what [Birds-of-a-Feather sessions](#BirdsofaFeatherSessions) will be held in each one. To remain fair, rooms or round tables should be allocated on a first-come-first-served basis
 - including hallway activities like 
 	- booths run by different initiatives in The Carpentries to encourage event attendees to get more information and become collaborators
 	- a resources wall for people to respond to questions and requests with answers written on sticky notes
