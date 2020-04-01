@@ -9,7 +9,7 @@ navigation:
   relative_url: case-studies
   url: /case-studies.html
 - text: Contribute
-  relative_url: contribute
-  url: /contribute.html
+  relative_url: contributing
+  url: /contributing.html
 markdown: kramdown
 
