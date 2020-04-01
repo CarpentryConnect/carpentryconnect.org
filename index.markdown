@@ -81,7 +81,7 @@ Local or regional events where Carpentries community members convene for more fo
 
 By definition, CarpentryConnects should span for at least one day and cover discussions and sessions that are not Carpentries Workshops or Carpentries Instructor Training.
 
-### Carpentries Meetups / CarpenTeas
+### Carpentries Meetups
 
 Local community convenings that take place over a few hours, or repeat periodically, would be considered _Carpentries Meetups_ or _CarpenTeas_ rather than CarpentryConnects.
 
