@@ -1,6 +1,7 @@
 ---
 title: How to Contribute
 layout: default
+permalink: /contributing/
 ---
 
 <section class="intro">
@@ -23,7 +24,7 @@ Files for pages available in the menu bar at the top of the website are availabl
 - in-person.markdown
 - online.markdown
 - case-studies.markdown
-- contributing.markdown
+- CONTRIBUTING.md
 
 
 ### Stylesheet
