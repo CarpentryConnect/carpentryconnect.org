@@ -260,10 +260,11 @@ Session facilitators are tasked with:
 ### Event Buddies
 Attending events can be nerve wracking for some people. Event buddies serve as 
 - venue guides, making signage,giving directions to various amenities and answering all questions that attendees may have
-- first point of contact at the event by manning the registration desk to help people find their badges and understand what different types of lanyards mean, for example.
+- go-to people for accessibility concerns and questions. Event buddies should be briefed and equipped to address accessibility needs.
+- first point of contact at the event by attending to the registration desk to help people find their badges and understand what different types of lanyards mean, for example.
 - facilitators of the [Hallway Track](/in-person#TheHallwayTrack) over breaks and meals -  make themselves available for conversation and running fun activities to help people engage with each other
 
-### Discussion transcribers
+### Session Transcribers
 For sessions in the main track, and breakout sessions at your event, transcribing sessions / live note-taking is highly recommended. It is the duty of discussion transcribers to: 
 - identify a central tool to use to write notes /  transcribe sessions. This should be accessible by all event attendees
 - determine permissions to the notes documents for different people at the event i.e. view-only access for attendees, comment-access for organisers, etc
@@ -274,6 +275,9 @@ For sessions in the main track, and breakout sessions at your event, transcribin
 ### Sign Language Translators
 
 Prioritising Sign Language Translations is one avenue to make your event more inclusive and content more accessible to attendees. 
+
+Some helpful resources to look into
+	- https://www.accreditedlanguage.com/interpreting/a-conference-guide-to-sign-language-interpreting/
 
 ## Finding Speakers and Session Facilitators
 
