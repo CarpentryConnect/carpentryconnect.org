@@ -91,9 +91,41 @@ Using information on time and rooms available for your use at your event as a gu
 - block time for an ice-breaker session, and 
 - think about curating aspects of the invaluable [Hallway Track](/in-person#TheHallwayTrack) in your conference. 
 
- Here are some program outline templates to help you get started: 
-- The first one is for a day-long event, and was designed by Dan Kerchner and Serah Rono ahead of CarpentryCon 2020
-- The second one is for a multi-day event, and was designed by the CarpentryConnect Manchester committee in 2019
+Here is an example of a program outline template to help you get started. It is for a day-long event, and was designed by Dan Kerchner and Serah Rono ahead of CarpentryConnect DC 2020.
+
+
+<table>
+  <tr>
+    <th>Time / CarpentryConnect Session</th>
+  </tr>
+  <tr>
+    <td>10:00am - 11:00am <br>  <br>Intros, CoC, Schedule,Updates on Carpentries, regional updates</td>
+  </tr>
+  <tr>
+    <td>11:00 am - 11:30am <br><br>Break</td>
+  </tr>
+  <tr>
+    <td>11:30am - 12:30pm  <br><br>Breakout sessions (x4) incl. 15 min collaborative draft report</td>
+  </tr>
+  <tr>
+    <td>12:30pm - 1:30pm <br><br>Lunch  (Group photo at 12:30pm OR 1:25pm)</td>
+  </tr>
+  <tr>
+    <td>1:30pm - 2:30pm <br><br>Breakout sessions</td>
+  </tr>
+  <tr>
+    <td>2:30pm - 3:00pm <br><br>Break</td>
+  </tr>
+  <tr>
+    <td>3:00pm - 4:00pm <br><br>Breakout sessions</td>
+  </tr>
+  <tr>
+    <td>4:00pm - 4:45pm Report-back from Breakouts <br>(1 slide x 12 sessions)<br><br></td>
+  </tr>
+  <tr>
+    <td>4.45pm - 5.00pm<br>Wrap up and Acknowledgements</td>
+  </tr>
+</table>
 
 ### Develop Your Program Collaboratively
 
@@ -129,7 +161,7 @@ If a panel session is preferred:
 - Choose a broad topic that would be of interest to conference attendees. You can get ideas by engaging your attendees to find out what topics they are interested in.
 - Allow ample time for Q&A i.e. the final 20 minutes of an hour-long panel session 
 	
-[Here are a few tips for good panel moderation]:
+
 
 #### Lightning Talk Sessions {#LightningTalkSessions}
 These sessions allow participants 3-7 minutes on stage to talk about something interesting, and share a call-to-action or several for the audience. Presenters are typically allowed 1-5 slides to keep their talks short and sweet.
@@ -209,6 +241,11 @@ A program outline for a day-long event with various tracks built into it might l
   </tr>
 </table>
 
+Here are examples of great event programmes from past CarpentryConnects:
+- [The first one is for a week-long event](https://carpentryconnectza.org#prog) and was developed by CarpentryConnect Jo'burg committee, led by Anelda van der Walt in 2018.
+- [The second one is for a multi-day event](https://software.ac.uk/ccmcr19/programme), and was designed by the CarpentryConnect Manchester committee in 2019
+- [The third one is from a day-long, unconference-type](http://ivory.idyll.org/dibsi/CarpentryConWest.html#our-schedule) CarpentryConnect in Davis in 2018
+
 ## Identify Roles Needed for Your Event to Run Smoothly
 
 Depending on the size of your event and the number of volunteers you have at hand, one person may need to assume multiple roles to help steer your event on the day. 
@@ -236,7 +273,7 @@ Ensures the event program runs smoothly by:
 - communicating non-disruptively in event communication channels about time left in any session
 - respectfully but firmly ending a session when there’s a risk to go over time
 
-### Session Facilitators
+### Session facilitators
 Session facilitators are tasked with: 
 - designing the flow of their session so it meets its objectives
 - ensuring their sessions run smoothly by:
@@ -254,14 +291,28 @@ Session facilitators are tasked with:
  
 ### Code of Conduct facilitators
 
-[Code of Conduct Facilitators](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md#recommendation-2-volunteer-code-of-conduct-facilitators) in The Carpentries serve as an added layer of support for our community before incidents are reported to the Code of Conduct Committee (CoCc). Code of Conduct Facilitators actively monitor our online spaces and in-person meetings and share potentially negative behaviours with the Code of Conduct committee on behalf of community members who are unable to report directly for various reasons. Where there are no incidents to report,  they communicate that the community is functioning as expected. To efficiently serve as a bridge with the CoCc, Code of Conduct facilitators:
-- liaise with the Master of Ceremonies and session leads to introduce themselves at the beginning of the day and in sessions
+[Code of Conduct Facilitators](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md#recommendation-2-volunteer-code-of-conduct-facilitators) serve as an added layer of support to report incidents to the Code of Conduct Committee (CoCc). Code of Conduct Facilitators actively monitor online spaces and in-person meetings during the event and are the in-person point of contact to provide support and guidance to report potential breach of the Code of Conduct to the CoCc. To efficiently serve as a bridge with the CoCc, Code of Conduct facilitators:
+- liaise with the master of ceremonies and session leads to introduce themselves at the beginning of the day and in sessions
 - provide multiple ways for event attendees to get in touch 
-- handle information shared with utmost care and discretion
-- communicate with the Code of Conduct committee to escalate urgent matters
-- update incident reporters of progress until CoCc takes over
-- send a summary report to conference organisers detailing number and type of CoC incidents reported at the event, and recommending specific actions and areas of improvement
+- are provided with local emergency numbers for local authorities
+- need to read our [incident reporting and response guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and understand how to report a Code of Conduct Incident with the Carpentries committee
+- handle information shared with utmost care, discretion, and pledge to not divulge any information that would be shared with them with anyone
+- communicate with the Code of Conduct committee as appropriate
+The CoCc handles the rest of the process. For more information, please [read our incident response procedure for the carpentries code of conduct committee](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-procedure-for-the-carpentries-code-of-conduct-committee).
 
+<div markdown="1" class="reading">
+
+**Some working definitions for terms used in this resource:**
+
+**Equity** <br>
+The creation of opportunities for equal access to and participation in programs that are capable of closing participation gaps in our community. 
+
+**Inclusion** <br>
+The active, intentional, and ongoing engagement of diverse people and communities that increases awareness, content knowledge, and empathic understanding of the ways we interact within (and change) our community.
+
+**Accessibility** <br>
+Program/process design and implementation that offers multiple avenues for access and participation.
+</div>
 
 ### Event Buddies
 Attending events can be nerve wracking for some people. Event buddies serve as 
@@ -273,7 +324,7 @@ Attending events can be nerve wracking for some people. Event buddies serve as
 ### Session Transcribers
 For sessions in the main track, and breakout sessions at your event, transcribing sessions / live note-taking is highly recommended. It is the duty of discussion transcribers to: 
 - identify a central tool to use to write notes /  transcribe sessions. This should be accessible by all event attendees
-- determine permissions to the notes documents for different people at the event i.e. view-only access for attendees, comment-access for organisers, etc
+- where Google Docs or other proprietary tools are preferred, determine permissions to the notes documents for different people at the event i.e. view-only access for attendees, comment-access for organisers, etc
 - take notes / transcribe sessions as elaborately and precisely as possible
 - go back and edit transcriptions / notes documents after the event
 - create and archive copies of the notes documents after the event
@@ -308,7 +359,7 @@ After you have designed a skeletal program for your day, share it with community
 	
 As an organiser, you can then go by popular vote and slot the top three session selections in your program. 
 
-Less popular sessions / themes from your community engagement exercise ablove need not go to waste - please reach out to [community@carpentries.org](mailto:community@carpentries.org) or [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform) requesting for these to be slotted as hour-long **Themed Discussion Sessions** (online Carpentries community calls where global Carpentries community members are invited to participate). These themed discussion sessions provide varied perspectives on different themes, and are usually recorded and uploaded to [The Carpentries YouTube channel](https://www.youtube.com/thecarpentries).
+Less popular sessions / themes from your community engagement exercise above need not go to waste - please reach out to [community@carpentries.org](mailto:community@carpentries.org) or [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform) requesting for these to be slotted as hour-long **Themed Discussion Sessions** (online Carpentries community calls where global Carpentries community members are invited to participate). These themed discussion sessions provide varied perspectives on different themes, and are usually recorded and uploaded to [The Carpentries YouTube channel](https://www.youtube.com/thecarpentries).
 
 ### Check Carpentries Channels for Ideas
 - Does your regional / local Carpentries community have its own mailing list on TopicBox or a dedicated Slack channel on The Carpentries Slack where different things are discussed regularly?
@@ -328,7 +379,7 @@ Just like this resource and The Carpentries website, both website templates use 
 
 ### Domain for your CarpentryConnect Website
 
-We highly recommend cloning either of the templates to the same repository to make it easier for The Carpentries Core Team to register a city.carpentryconnect.org subdomain for your event. Please reach out to [community@carpentries.org](mailto:community@carpentries.org) if you would like for one of our team to work with you in this step of the process.
+We highly recommend cloning either of the templates to the same repository to make it easier for The Carpentries Core Team to register a _cityyear.carpentryconnect.org_ subdomain for your event. Please reach out to [community@carpentries.org](mailto:community@carpentries.org) if you would like for one of our team to work with you in this step of the process.
 
 ### Developing a Conference Budget
 
@@ -345,6 +396,13 @@ Here's a list of items that may require money:
 - Tidying / cleaning services after your event
 - Professional video recording services
 - Sign language translation and transcription services
+- Professional video recording services
+- Sign language translation and transcription services
+- Equipment rental (e.g. poster boards, AV equipment etc)
+- Facility rental fees
+- Lodging, transit/parking, and other expenses for invited speakers, volunteers who don’t live in the immediate area
+- Other items related to accessibility accommodations (ex. Child care services)
+
 
 ### Putting Out a Call for Registrations 
 
@@ -354,6 +412,8 @@ You can employ various tools in putting out a call for registrations for your ev
 - [Eventbrite](https://www.eventbrite.com/)
 - [Google Forms](http://forms.google.com)
 - [Typeform](http://typeform.com)
+
+Eventbrite makes it easier to collect any ticket fees and donations in case you need to do so for your event.
 
 Regardless of the tool you decide to use to manage your CarpentryConnect registrations, here are some key questions we recommend asking in your event’s registration form: 
 - A person’s identification details that they are comfortable having on their name tag
@@ -372,7 +432,7 @@ Depending on the locale selected for your CarpentryConnect event, you may need t
 - Sign language and translation services
 - Catering for breaks and lunches
 - Small grants to help community members from your region get to your event
-- Conference registration - lanyards and name tags
+- Conference registration supplies - lanyards and name tags
 - Conference swag like stickers
 - Childcare services
 - Communications like design and printing of event posters to create awareness about your event
