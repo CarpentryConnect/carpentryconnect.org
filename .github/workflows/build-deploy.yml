@@ -11,10 +11,15 @@ jobs:
     steps:
     - name: checkout
       uses: actions/checkout@master
-    - name: Build
-      uses: jerryjvl/jekyll-build-action@v1
+    - name: Install Ruby
+      uses: actions/setup-ruby@v1
       with:
-        entrypoint: build_site.sh
+        ruby-version: 2.5
+    - name: Install Jekyll
+      run: |
+        gem intall bundler
+        bundle install --jobs 4 --retry 3
+        bundle exec jekyll build --trace
     - uses: jakejarvis/s3-sync-action@master
       with:
         args: --acl public-read --follow-symlinks --delete
