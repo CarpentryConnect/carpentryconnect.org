@@ -1,8 +1,5 @@
-{% for link in site.navigation %}
-	{% if page.url == link.url %}
-		{% assign bodyclass = link.relative_url %}
-	{% endif %}
-{% endfor %}
+{% assign bodyclass = page.permalink | remove: "/" %}
+
 <!DOCTYPE html>
 <!--[if lt IE 9]><html class="lt-ie9" lang="en"><![endif]-->
 <!--[if gte IE 9]><!-->
@@ -27,7 +24,7 @@
 		<script src="https://use.typekit.net/uzj8mcd.js"></script>
 		<script>try{Typekit.load({ async: true });}catch(e){}</script>
 	</head>
-	<body class="{{ bodyclass }}">
+<body class="{{ bodyclass }}">
 		<div class="header_container" id="top">
 			<header class="group container primary">
 				<div class="branding">
@@ -44,7 +41,7 @@
 								{% assign class = '' %}
 							{% endif %}
 							<li class="{{ class }}">
-							<a href="{{ link.relative_url }}">{{ link.text }}</a>
+							<a href="{{ link.url }}">{{ link.text }}</a>
 							</li>
 						{% endfor %}
 					</ul>

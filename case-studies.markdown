@@ -1,6 +1,7 @@
 ---
 title: Case Studies
 layout: default
+permalink: /case-studies/
 ---
 
 <section class="intro">

@@ -1,6 +1,7 @@
 ---
 title: In-Person CarpentryConnects
 layout: default
+permalink: /in-person/
 ---
 
 <style type="text/css">
