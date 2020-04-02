@@ -15,11 +15,12 @@ jobs:
       uses: actions/setup-ruby@v1
       with:
         ruby-version: 2.5
-    - name: Install Jekyll
+    - name: Install Jekyll and dependencies
       run: |
-        gem intall bundler
+        gem install bundler
         bundle install --jobs 4 --retry 3
-        bundle exec jekyll build --trace
+    - name: Build website
+      run:  bundle exec jekyll build --trace
     - uses: jakejarvis/s3-sync-action@master
       with:
         args: --acl public-read --follow-symlinks --delete

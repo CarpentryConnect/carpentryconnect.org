@@ -1,6 +1,7 @@
 ---
 title: Online CarpentryConnects
 layout: default
+permalink: /online/
 ---
 <style type="text/css">
 figure img { border: 1px solid #999999;}
@@ -21,7 +22,7 @@ figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
 }
 .reading, .templates { 
 	margin: 0 3em 0 3em;
-	background-color: #F4ECE6;  
+	background-color: #F4ECE6;
 	padding: 0.25em 1em 0.25em 1em;
 	color: #41322f;				
 }
