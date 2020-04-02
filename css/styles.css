@@ -114,13 +114,13 @@ img {
 }
 
 ::-moz-selection {
-    background: #FF675B;
+    background: #FF4500;
     color: #FFF;
     text-shadow: none;
 }
 
 ::selection {
-    background: #FF675B;
+    background: #FF4500;
     color: #FFF;
     text-shadow: none;
 }
@@ -234,11 +234,11 @@ nav.primary li a {
 }
 nav.primary li a:hover,
 nav.primary li a:focus {
-    color: #229AB7;
+    color: #005B9A;
 }
 
 nav.primary .active a {
-    color: #229AB7;
+    color: #005B9A;
 }
 nav.primary .active a:hover,
 nav.primary .active a:focus {
@@ -246,7 +246,7 @@ nav.primary .active a:focus {
 }
 
 .heading {
-    background: #2299B7;
+    background: #071159;
     color: #FFF;
     overflow: hidden;
     width: 100%;
@@ -288,7 +288,7 @@ body .heading h1:before {
 
 .main h2 {
     border-top: 1px solid #E4E4E4;
-    color: #FF675B;
+    color: #FF4500;
     font-size: 2.2em;
     margin-bottom: 0.1em;
     margin-top: 1.4em;
@@ -355,7 +355,7 @@ aside.primary nav > ul > li:first-child {
 }
 
 footer.primary {
-    background: #2299B7;
+    background: #071159;
     color: #FFF;
     font-size: 0.9em;
     padding: 5em 0;
@@ -491,20 +491,20 @@ hr {
 }
 
 a {
-    color: #0394CD;
+    color: #005B9A;
     text-decoration: none;
     transition: color 200ms;
 }
 a:hover,
 a:focus {
-    color: #FF675B;
+    color: #FF4500;
     outline: 0;
 }
 
 .button {
     -webkit-appearance: none;
-    background: linear-gradient(to bottom, #0394CD 0%,#0174B5 100%);
-    background: #0394CD;
+    background: linear-gradient(to bottom, #005B9A 0%,#0174B5 100%);
+    background: #005B9A;
     border: none;
     border-radius: 3px;
     color: #FFF;
@@ -723,7 +723,7 @@ body.homepage nav.primary li a:focus .flipper {
     margin-bottom: 18px;
 }
 .back h3 {
-    color: #FF675B;
+    color: #FF4500;
     font-size: 24px;
 }
 .front img,
@@ -807,7 +807,7 @@ table tr:nth-child(even) td {
 
 td.supported,
 table tr:nth-child(even) td.supported {
-    background: #229AB7;
+    background: #005B9A;
     color: white;
     font-weight: 400;
 }
