@@ -373,10 +373,15 @@ If you answered yes to any of these prompts, congratulations! You have identifie
 Email [community@carpentries.org](mailto:community@carpentries.org) with your request to chat about possible session themes for your CarpentryConnect event and  members of the Community Development Team in The Carpentries will avail themselves for a chat with your local/regional event organisers.
 
 ## Creating a Website for Your CarpentryConnect Event
-Website Templates to Use
-To help you get started, The Carpentries has created two website templates for you to choose from. You can find both templates in [the CarpentryConnect repository on GitHub](https://github.com/carpentryconnect).
 
-Just like this resource and The Carpentries website, both website templates use [Jekyll](https://jekyllrb.com), a static website generator, and display all information about your event summarily in a single page.
+### Website Templates to Use
+To help you get started, The Carpentries will soon be adding two website templates for you to choose from. You can find both templates in [the CarpentryConnect repository on GitHub](https://github.com/carpentryconnect).
+
+Just like this resource and The Carpentries website, both website templates will employ use of [Jekyll](https://jekyllrb.com), a static website generator, and display all information about your event summarily in a single page.
+
+In the meantime, we recommend using these as a template:
+- [Agency Jekyll Theme](https://startbootstrap.com/template-overviews/agency/), a one-page Jekyll website theme that was used for [CarpentryCon 2018's website](http://2018.carpentrycon.org/)
+- [Project Zepelin's theme](https://github.com/gdg-x/zeppelin), a multi-page Jekyll website theme that was used for [CarpentryCon 2020's website](https://2020.carpentrycon.org)
 
 ### Domain for your CarpentryConnect Website
 

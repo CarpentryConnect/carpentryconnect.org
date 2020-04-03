@@ -205,7 +205,7 @@ Work with other session
 - introduce icebreaker activities to virtual event attendees
 
 
-### Deciding Which Tools to Use
+## Deciding Which Tools to Use
 
 There are lots of tools to choose from, and different ways to use them. Here is a set of prompts to help guide you as you decide what tools to employ as part of your virtual event:
 - what demographics will your event attendees be joining from?
@@ -217,7 +217,7 @@ Here are some tools for you to consider using:
 - contributed by Carpentries community members, [here are suggested tools](https://carpentries.org/blog/2020/03/tips-for-teaching-online/#tools) recommended for use in online meetings that you can adapt for your needs
 - Recommended resources by The Carpentries' COVID-19 response team [will be made available here](https://github.com/carpentries/task-forces/tree/master/2020/COVID-19).
 
-### Preparing Your Session Facilitators
+## Preparing Your Session Facilitators
 The term session facilitators is used here to refer to panelists, keynote speakers, breakout session leads, lightning talk participants, and anyone else in charge of leading discussions on a specific topic in your online event.
 
 Here's a checklist to help you prepare session facilitators for your virtual event: 
@@ -234,7 +234,7 @@ Here's a checklist to help you prepare session facilitators for your virtual eve
 - Check for consent to record the session and make it available to other community members. We recommend adding a yes/no question about this in the sessions proposal form for your event, and confirming consent to record in this check in
 - Agree on any post-session activities - like writing a blog post about the session, answering community questions in a collaborative doc, etc.
 
-#### Guidelines for Effective Community Facilitation
+### Guidelines for Effective Community Facilitation
 
 - Plan ahead, starting as soon as your virtual event dates are confirmed
 - define what constitutes a normal session for your virtual event, and prepare for best and worst case scenarios
@@ -243,6 +243,22 @@ Here's a checklist to help you prepare session facilitators for your virtual eve
 - plan for fun and human mini-breaks in your session i.e.
 	- research about icebreakers and work them into your session, being careful to respect people's context i.e. don't ask people to stand up for the icebreaker, avoid political commentary or other topics that may be triggering, etc
 
+
+## Creating a Website for Your CarpentryConnect Event
+
+### Website Templates to Use
+
+To help you get started, The Carpentries will soon be adding two website templates for you to choose from. You can find both templates in [the CarpentryConnect repository on GitHub](https://github.com/carpentryconnect).
+
+Just like this resource and The Carpentries website, both website templates will employ use of [Jekyll](https://jekyllrb.com), a static website generator, and display all information about your event summarily in a single page.
+
+In the meantime, we recommend using these as a template:
+- [Agency Jekyll Theme](https://startbootstrap.com/template-overviews/agency/), a one-page Jekyll website theme that was used for [CarpentryCon 2018's website](http://2018.carpentrycon.org/)
+- [Project Zepelin's theme](https://github.com/gdg-x/zeppelin), a multi-page Jekyll website theme that was used for [CarpentryCon 2020's website](https://2020.carpentrycon.org)
+
+### Domain for your CarpentryConnect Website
+
+We highly recommend cloning either of the templates to the same repository to make it easier for The Carpentries Core Team to register a _cityyear.carpentryconnect.org_ subdomain for your event. Please reach out to [community@carpentries.org](mailto:community@carpentries.org) if you would like for one of our team to work with you in this step of the process.
 
 ## Call for Session Proposals 
 
