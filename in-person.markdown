@@ -79,6 +79,58 @@ Sometimes the outcome of your first discussion is a decision to organise a small
 You can find our Virtual CarpentryConnect Planning Kit [here](/online).
 </div>
 
+## Decide on Session Formats
+
+Depending on the theme and goals of your event, and the needs and interests of your attendees, it may help to mix and match different session formats at your event. Here are some session formats to consider:
+
+### Skills-sharing {#Skills-sharing}
+
+These are hands-on sessions with instructors or facilitators and in which attendees learn a new skill. It is important to communicate in advance about
+levels of proficiency required to sit in for a session i.e. is it for beginners, intermediate and advanced level users of the resource that will be covered? 
+Requirements for the workshop i.e. equipment, tools and resources attendees come to the session with
+
+### Keynote Sessions {#KeynoteSessions}
+
+Keynotes are main track sessions that everyone attending an event is invited to sit in for. 
+
+When scheduled as the first session of the day, keynotes are a great way to set the tone for a conference and spark discussions around specific topics throughout the event. Some keynotes are also set at the end of an event day, and these usually serve to coalesce discussions from the entire event into specific calls to action to keep the community moving forward. 
+
+For shorter events, it might not be possible to have both. 
+
+### Panel Sessions {#PanelSessions}
+
+These are a great alternative to keynote sessions as they allow more people to speak and be heard in the same amount of time. They are also a great way to shine a spotlight on various people’s passions, efforts and involvement within the community. 
+
+If a panel session is preferred:
+- Find a moderator to help guide discussions, ensure fair share of time to speak, keep panelists on topic and incorporate audience participation
+- Choose a broad topic that would be of interest to conference attendees. You can get ideas by engaging your attendees to find out what topics they are interested in.
+- Allow ample time for Q&A i.e. the final 20 minutes of an hour-long panel session 
+	
+### Lightning Talk Sessions {#LightningTalkSessions}
+
+These sessions allow participants 3-7 minutes on stage to talk about something interesting, and share a call-to-action or several for the audience. Presenters are typically allowed 1-5 slides to keep their talks short and sweet.
+
+### Unconference Sessions
+
+These are sessions whose topics are pitched at your event to allow attendees to decide which topics interest them. These sessions have a facilitator and can take any form decided on by participants. Unconference sessions take on a broad question and open them up for discussion by attendees. In shorter events, [Birds-of-a-Feather sessions](#BirdsofaFeatherSessions) are examples of unconference sessions.
+
+### The Hallway Track {#TheHallwayTrack}
+
+Over breaks and lunch at an event, people prefer to spend their free time in different ways. 
+
+For attendees that may prefer quiet time to get work done, or rest and reflect or attend to private matters, consider:
+- designating a quiet room for people to go rest in
+- reserving a nursing room for parents to attend to their little ones
+
+For people that may prefer to work collaboratively and network over their breaks, consider:  
+- listing rooms or round tables that will be open during breaks on a common board (say, by the registration desk) and having people specify what [Birds-of-a-Feather sessions](#BirdsofaFeatherSessions) will be held in each one. To remain fair, rooms or round tables should be allocated on a first-come-first-served basis
+- including hallway activities like 
+	- booths run by different initiatives in The Carpentries to encourage event attendees to get more information and become collaborators
+	- a resources wall for people to respond to questions and requests with answers written on sticky notes
+	- running a Bug BBQ desk over lunch where people can come and brainstorm ways to solve some issues identified
+	- leaving plenty of group seating options in the hallway if possible for unstructured conversations to happen
+	- organising a walk around the venue’s environs over lunch or in the evening. 
+
 ## Designing a CarpentryConnect Program
 
 For in-person events, it is important to have an agenda that provides ample opportunity for people to interact with each other in different ways. 
@@ -93,7 +145,6 @@ Using information on time and rooms available for your use at your event as a gu
 - think about curating aspects of the invaluable [Hallway Track](/in-person#TheHallwayTrack) in your conference. 
 
 Here is an example of a program outline template to help you get started. It is for a day-long event, and was designed by Dan Kerchner and Serah Rono ahead of CarpentryConnect DC 2020.
-
 
 <table>
   <tr>
@@ -136,56 +187,7 @@ Keep a list of all suggested session ideas, and leave it open for comment, discu
 
 As an event organiser, you may need to make final decisions on some aspects of your event after receiving everyone’s input. To help you decide which sessions to include in your program, consider prioritising discussions that would span months in an online setting. What are some complex discussions that the community can make progress on with the help of a session moderator or facilitator?
 
-### Decide on Session Formats
-
-Depending on the theme and goals of your event, and the needs and interests of your attendees, it may help to mix and match different session formats at your event. Here are some session formats to consider:
-
-#### Skills-sharing {#Skills-sharing}
-
-These are hands-on sessions with instructors or facilitators and in which attendees learn a new skill. It is important to communicate in advance about
-levels of proficiency required to sit in for a session i.e. is it for beginners, intermediate and advanced level users of the resource that will be covered? 
-Requirements for the workshop i.e. equipment, tools and resources attendees come to the session with
-
-#### Keynote Sessions {#KeynoteSessions}
-
-Keynotes are main track sessions that everyone attending an event is invited to sit in for. 
-
-When scheduled as the first session of the day, keynotes are a great way to set the tone for a conference and spark discussions around specific topics throughout the event. Some keynotes are also set at the end of an event day, and these usually serve to coalesce discussions from the entire event into specific calls to action to keep the community moving forward. 
-
-For shorter events, it might not be possible to have both. 
-
-#### Panel Sessions {#PanelSessions}
-These are a great alternative to keynote sessions as they allow more people to speak and be heard in the same amount of time. They are also a great way to shine a spotlight on various people’s passions, efforts and involvement within the community. 
-
-If a panel session is preferred:
-- Find a moderator to help guide discussions, ensure fair share of time to speak, keep panelists on topic and incorporate audience participation
-- Choose a broad topic that would be of interest to conference attendees. You can get ideas by engaging your attendees to find out what topics they are interested in.
-- Allow ample time for Q&A i.e. the final 20 minutes of an hour-long panel session 
-	
-#### Lightning Talk Sessions {#LightningTalkSessions}
-These sessions allow participants 3-7 minutes on stage to talk about something interesting, and share a call-to-action or several for the audience. Presenters are typically allowed 1-5 slides to keep their talks short and sweet.
-
-#### Unconference Sessions
-These are sessions whose topics are pitched at your event to allow attendees to decide which topics interest them. These sessions have a facilitator and can take any form decided on by participants. Unconference sessions take on a broad question and open them up for discussion by attendees. In shorter events, [Birds-of-a-Feather sessions](#BirdsofaFeatherSessions) are examples of unconference sessions.
-
-#### The Hallway Track {#TheHallwayTrack}
-
-Over breaks and lunch at an event, people prefer to spend their free time in different ways. 
-
-For attendees that may prefer quiet time to get work done, or rest and reflect or attend to private matters, consider:
-- designating a quiet room for people to go rest in
-- reserving a nursing room for parents to attend to their little ones
-
-For people that may prefer to work collaboratively and network over their breaks, consider:  
-- listing rooms or round tables that will be open during breaks on a common board (say, by the registration desk) and having people specify what [Birds-of-a-Feather sessions](#BirdsofaFeatherSessions) will be held in each one. To remain fair, rooms or round tables should be allocated on a first-come-first-served basis
-- including hallway activities like 
-	- booths run by different initiatives in The Carpentries to encourage event attendees to get more information and become collaborators
-	- a resources wall for people to respond to questions and requests with answers written on sticky notes
-	- running a Bug BBQ desk over lunch where people can come and brainstorm ways to solve some issues identified
-	- leaving plenty of group seating options in the hallway if possible for unstructured conversations to happen
-	- organising a walk around the venue’s environs over lunch or in the evening. 
-
-#### Diversify Your Event Program 
+### Diversify Your Event Program 
 
 It is important for your program to create an environment for as many voices to be heard during your event. Given the time limitation, you may need to create different tracks for your CarpentryConnect event to allow several sessions to run concurrently. Event tracks should be themed to help attendees make decisions about where to go at any given time. Examples of CarpentryConnect tracks might include
 - local community building
