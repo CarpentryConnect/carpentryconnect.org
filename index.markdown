@@ -66,7 +66,7 @@ There also needed to be an added layer of specificity in the naming convention a
 
 While CarpentryConnect meetings have less direct oversight by The Core Carpentries Team, we still want them to represent The Carpentries well and exude our community values and inclusive practices. We are also aware that enthusiasm to run a great event can be quickly curtailed by overwhelm for anyone who has not organised such an event before. For these reasons, we are launching our new CarpentryConnect Planning Kit to guide community members in planning great CarpentryConnect events.
 
-Is anything missing from this first version of our CarpentryConnect Planning Kit? Email [community@carpentries.org](mailto:community@carpentries.org) or open an issue on the [CarpentryConnect Planning Kit repository](https://github.com/CarpentryConnect/carpentryconnect.org) on GitHub and we will work together to improve the resource. Community contributions are also welcome. You can find sections to contribute to, and information on how to start contributing in the [contributing section](/contribute) of the CarpentryConnect Planning Kit.
+Is anything missing from this first version of our CarpentryConnect Planning Kit? Email [community@carpentries.org](mailto:community@carpentries.org) or open an issue on the [CarpentryConnect Planning Kit repository](https://github.com/CarpentryConnect/carpentryconnect.org) on GitHub and we will work together to improve the resource. Community contributions are also welcome. You can find sections to contribute to, and information on how to start contributing in the [contributing section](/contributing/) of the CarpentryConnect Planning Kit.
 
 
 ## Definition of Terms
