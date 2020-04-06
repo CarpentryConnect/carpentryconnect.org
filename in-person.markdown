@@ -4,6 +4,12 @@ layout: default
 permalink: /in-person/
 ---
 
+<section class="intro">
+	<p>
+		This page provides checklists, recommendations and resources to help Carpentries community members plan for in-person local and regional events.
+	</p>
+</section>
+
 <style type="text/css">
 figure img { border: 1px solid #999999;}
 figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
@@ -28,12 +34,6 @@ figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
 	color: #41322f;				
 }
 </style>
-
-<section class="intro">
-	<p>
-		This page provides checklists, recommendations and resources to help Carpentries community members plan for in-person local and regional events.
-	</p>
-</section>
 
 ## Start Here!
 
@@ -162,8 +162,6 @@ If a panel session is preferred:
 - Choose a broad topic that would be of interest to conference attendees. You can get ideas by engaging your attendees to find out what topics they are interested in.
 - Allow ample time for Q&A i.e. the final 20 minutes of an hour-long panel session 
 	
-
-
 #### Lightning Talk Sessions {#LightningTalkSessions}
 These sessions allow participants 3-7 minutes on stage to talk about something interesting, and share a call-to-action or several for the audience. Presenters are typically allowed 1-5 slides to keep their talks short and sweet.
 
@@ -253,6 +251,7 @@ Depending on the size of your event and the number of volunteers you have at han
 Here are a few roles and a checklist of duties under each one: 
 
 ### Master of Ceremonies
+
 The Master of Ceremonies is tasked with:
 - Kicking off the event by 
 	- welcoming all attendees at the start of each event day, 
@@ -267,6 +266,7 @@ The Master of Ceremonies is tasked with:
 - assuming the role of timekeeper if need be
 
 ### Time Keeper
+
 Ensures the event program runs smoothly by:
 - creating time-alert signage to alert speakers of time left in the session
 - keeping time in the main track of the event and one of the breakout tracks throughout the day
@@ -275,6 +275,7 @@ Ensures the event program runs smoothly by:
 - respectfully but firmly ending a session when there’s a risk to go over time
 
 ### Session facilitators
+
 Session facilitators are tasked with: 
 - designing the flow of their session so it meets its objectives
 - ensuring their sessions run smoothly by:
@@ -316,6 +317,7 @@ Program/process design and implementation that offers multiple avenues for acces
 </div>
 
 ### Event Buddies
+
 Attending events can be nerve wracking for some people. Event buddies serve as 
 - venue guides, making signage,giving directions to various amenities and answering all questions that attendees may have
 - go-to people for accessibility concerns and questions. Event buddies should be briefed and equipped to address accessibility needs.
@@ -323,6 +325,7 @@ Attending events can be nerve wracking for some people. Event buddies serve as
 - facilitators of the [Hallway Track](/in-person#TheHallwayTrack) over breaks and meals -  make themselves available for conversation and running fun activities to help people engage with each other
 
 ### Session Transcribers
+
 For sessions in the main track, and breakout sessions at your event, transcribing sessions / live note-taking is highly recommended. It is the duty of discussion transcribers to: 
 - identify a central tool to use to write notes /  transcribe sessions. This should be accessible by all event attendees
 - where Google Docs or other proprietary tools are preferred, determine permissions to the notes documents for different people at the event i.e. view-only access for attendees, comment-access for organisers, etc
@@ -344,6 +347,7 @@ The Carpentries community is composed of technologists, librarians, data scienti
 We covered the different types of sessions you can have in your event [in this section](/in-person#DecideonSessionFormats), and we will now offer tips for selecting the right types of sessions for your CarpentryConnect event. 
 
 ### Ask Community Members for Input
+
 After you have designed a skeletal program for your day, share it with community members that are keen on attending your CarpentryConnect, and ask them to offer suggestions for specific themes for your panel sessions, breakout sessions and keynote speakers. Requests for input can either be sent as 
 - open-ended questions i.e.
 	what breakout sessions would you be interested in going to at our upcoming CarpentryConnect? _________________________ , or
@@ -363,6 +367,7 @@ As an organiser, you can then go by popular vote and slot the top three session 
 Less popular sessions / themes from your community engagement exercise above need not go to waste - please reach out to [community@carpentries.org](mailto:community@carpentries.org) or [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform) requesting for these to be slotted as hour-long **Themed Discussion Sessions** (online Carpentries community calls where global Carpentries community members are invited to participate). These themed discussion sessions provide varied perspectives on different themes, and are usually recorded and uploaded to [The Carpentries YouTube channel](https://www.youtube.com/thecarpentries).
 
 ### Check Carpentries Channels for Ideas
+
 - Does your regional / local Carpentries community have its own mailing list on TopicBox or a dedicated Slack channel on The Carpentries Slack where different things are discussed regularly?
 	- If yes, are there discussions that have been going on for a long time, or some which community members have very different approaches / opinions about?
 - Are there blog posts on The Carpentries blog whose themes would make for timely discussions in your regional / local community event? 
@@ -370,11 +375,13 @@ Less popular sessions / themes from your community engagement exercise above nee
 If you answered yes to any of these prompts, congratulations! You have identified some interesting topics to discuss in different sessions in your CarpentryConnect event. 
 
 ### Brainstorm with The Carpentries Core Team
+
 Email [community@carpentries.org](mailto:community@carpentries.org) with your request to chat about possible session themes for your CarpentryConnect event and  members of the Community Development Team in The Carpentries will avail themselves for a chat with your local/regional event organisers.
 
 ## Creating a Website for Your CarpentryConnect Event
 
 ### Website Templates to Use
+
 To help you get started, The Carpentries will soon be adding two website templates for you to choose from. You can find both templates in [the CarpentryConnect repository on GitHub](https://github.com/carpentryconnect).
 
 Just like this resource and The Carpentries website, both website templates will employ use of [Jekyll](https://jekyllrb.com), a static website generator, and display all information about your event summarily in a single page.
@@ -387,7 +394,7 @@ In the meantime, we recommend using these as a template:
 
 We highly recommend cloning either of the templates to the same repository to make it easier for The Carpentries Core Team to register a _cityyear.carpentryconnect.org_ subdomain for your event. Please reach out to [community@carpentries.org](mailto:community@carpentries.org) if you would like for one of our team to work with you in this step of the process.
 
-### Developing a Conference Budget
+## Developing a Conference Budget
 
 Here's a list of items that may require money:
 - Beverages and snacks
@@ -410,7 +417,7 @@ Here's a list of items that may require money:
 - Other items related to accessibility accommodations (ex. Child care services)
 
 
-### Putting Out a Call for Registrations 
+## Putting Out a Call for Registrations 
 
 Putting out a call for registrations will give you an idea of how many people plan on attending your event. This will come in handy as you prepare your venue to make accommodations for various accessibility needs, design seating arrangements for various rooms, make plans for catering, get name tags ready, etc.
 
@@ -431,7 +438,8 @@ Regardless of the tool you decide to use to manage your CarpentryConnect registr
 - Food Allergies
 	In case beverages and meals will be provided at your event, this information is important to have and share with your catering service
 
-### Seeking Funds and Sponsors
+## Seeking Funds and Sponsors
+
 Depending on the locale selected for your CarpentryConnect event, you may need to raise funds to help execute your event successfully. Aspects of event planning that may incur costs include
 - Venue costs
 - Sound, recording and/or live streaming services
@@ -443,6 +451,6 @@ Depending on the locale selected for your CarpentryConnect event, you may need t
 - Childcare services
 - Communications like design and printing of event posters to create awareness about your event
 
-## Other Helpful In-Person Event Planning Resources 
+## More Planning Resources 
 
-- CarpentryCon 2018 organisers' report
+- OpenCon's [elaborate guide to organising satelite events](https://www.opencon2018.org/satellite)

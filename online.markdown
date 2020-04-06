@@ -3,6 +3,13 @@ title: Online CarpentryConnects
 layout: default
 permalink: /online/
 ---
+
+<section class="intro">
+	<p>
+		This page provides checklists, recommendations and resources to help Carpentries community members plan for virtual (online) local and regional events.
+	</p>
+</section>
+
 <style type="text/css">
 figure img { border: 1px solid #999999;}
 figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
@@ -22,24 +29,20 @@ figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
 }
 .reading, .templates { 
 	margin: 0 3em 0 3em;
-	background-color: #F4ECE6;
+	background-color: #F4ECE6;  
 	padding: 0.25em 1em 0.25em 1em;
 	color: #41322f;				
 }
 </style>
 
-<section class="intro">
-	<p>
-		This page provides checklists, recommendations and resources to help Carpentries community members plan for virtual (online) local and regional events.
-	</p>
-</section>
-
 Global occurrences, political decrees in different regions, or community preferences may necessitate virtually organised and run CarpentryConnect events. This section provides checklists, resources and a set of best practices to help guide your virtual event planning. The information contained herein is constantly evolving to include perspectives from different community members, and your input is highly appreciated.
 
 ## Start Here!
+
 This two-part checklist suggests preparatory tasks you can embark on before diving in to use the rest of the CarpentryConnect Planning Kit to organise your online CarpentryConnect event. The checklist includes guidelines on brainstorming about your idea for an online event early on, selecting dates, and getting a planning committee together before continuing on to other sections of the Virtual CarpentryConnect Planning Kit.
 
 ### I just had an idea to bring people together in a CarpentryConnect!
+
 - [optional] In case this would be valuable for you, schedule a call with our Director of Community Development and Engagement to discuss your idea and chat about your wishlist and next steps. You can do that by emailing [community@carpentries.org](mailto:community@carpentries.org). 
 - Reach out to community members via The Carpentries Slack channel or TopicBox sharing your idea and interest in finding others to help organise a CarpentryConnect in your region, including as many details as possible
 - Once you have identified several community members that would be interested,
@@ -58,6 +61,7 @@ Sometimes the outcome of your first discussion is a decision to organise a small
 </div>
 
 ### I am in the early stages of planning for a CarpentryConnect!
+
 This section assumes that you have an idea about these three things for your event: city/region, date range and community members to help you put together a CarpentryConnect event. If not, [start here](/online#IjusthadanideatobringpeopletogetherinaCarpentryConnect). 
 
 Let The Core Carpentries Team know that you have an idea for or are planning a CarpentryConnect by emailing [community@carpentries.org](mailto:community@carpentries.org) with as many details as possible. 
@@ -144,6 +148,7 @@ Here are some community facilitator roles, and checklists for responsibilities t
 -	organise the editing and publishing of the recorded session for access by others
 
 ### Code of Conduct Facilitators
+
 Code of Conduct Facilitators](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md#recommendation-2-volunteer-code-of-conduct-facilitators) serve as an added layer of support to report incidents to the Code of Conduct Committee (CoCc). Code of Conduct Facilitators actively monitor online spaces during the event and are the in-person point of contact to provide support and guidance to report potential breach of the Code of Conduct to the CoCc. To efficiently serve as a bridge with the CoCc, Code of Conduct facilitators:
 - liaise with the call hosts and introduce themselves at start of the event and summarise event Code of Conduct to session attendees
 - provide clear and straightforward ways for people to reach out to flag CoC issues in the virtual session
@@ -188,19 +193,22 @@ Work with other session
 		- will the session be cut off abruptly?
 - makes sure that event starts and stops at the designated times
 	
-### Technical supporters
+### Technical Supporters
+
 - prepare a clear guide for session presenters and event attendees to set up tools to use before the virtual event.
 	- this should be shared  
 	- This can be shared in an easy-to-access space i.e. event website
 - respond to issues about difficulty in connecting to or using  any tools used during the virtual session - some of which may be flagged by communications facilitators
 
 ### Session Transcribers
+
 - Determine the best formats and tools to use to transcribe live sessions online
 - Coordinate with communications facilitators  and call hosts to introduce these tools to session presenters, and conduct a dry run
 - Communicate clearly about how session attendees can access live transcriptions from the virtual sessions 
 - Review recorded sessions, adding in correct transcriptions before these are shared publicly.
 
 ### Break Facilitators
+
 - Research and design suitable icebreaker activities for periods between sessions in the virtual event
 - introduce icebreaker activities to virtual event attendees
 
@@ -218,6 +226,7 @@ Here are some tools for you to consider using:
 - Recommended resources by The Carpentries' COVID-19 response team [will be made available here](https://github.com/carpentries/task-forces/tree/master/2020/COVID-19).
 
 ## Preparing Your Session Facilitators
+
 The term session facilitators is used here to refer to panelists, keynote speakers, breakout session leads, lightning talk participants, and anyone else in charge of leading discussions on a specific topic in your online event.
 
 Here's a checklist to help you prepare session facilitators for your virtual event: 
@@ -290,4 +299,6 @@ Here's a checklist to help virtual event organisers plan for post-event wrap up 
 - Dev.To's [Types of Online Events and How to Get Started](https://dev.to/elishatan/moving-your-developer-events-online-here-are-some-ideas-to-get-started-1iie)
 - [How to plan engaging virtual events](https://enterprisersproject.com/article/2020/3/how-plan-virtual-events)
 - [10 Resources Every Event Professional Should Bookmark](https://www.cvent.com/en/blog/insights/10-resources-every-event-professional-bookmark)
+- Turing Way's [checklist for remote events](https://deploy-preview-962--the-turing-way.netlify.com/remote_collaboration/checklist/checklist.html)
+- Turing Way's [guide to facilitating remote events](https://deploy-preview-1008--the-turing-way.netlify.com/introduction/introduction)
 
