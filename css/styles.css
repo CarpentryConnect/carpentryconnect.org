@@ -358,7 +358,7 @@ footer.primary {
     background: #071159;
     color: #FFF;
     font-size: 0.9em;
-    padding: 5em 0;
+    padding: 8em 0 12em;
 }
 
 footer.primary a {
@@ -369,21 +369,22 @@ footer.primary a {
 footer.primary img {
     display: inline-block;
     margin-bottom: 1.5em;
-    max-width: 90px;
+    max-width: 60%;
 }
 
 .footer_container {
-    width: 25%;
-    padding-left: 30px;
-    padding-right: 30px;
+    width: 33rem;
+    padding-left: 3em;
+    padding-right: 3em;
     float:left;   
     margin-top:-1em;
-    margin-left:8em;
+    margin-left:3em;
   }
 .footer_container img {
-  min-width: 80%;
+  min-width: 50%;
   margin-top:-0.6em;
 }
+
 /* = Typography = */
 h1,
 h2,
@@ -851,9 +852,7 @@ tr:first-child th:first-child {
     .back {
         display: none;
     }
-}
-
-
+    
 @media only screen and (min-width: 768px) {
     body {
         font-size: 18px;
@@ -1041,7 +1040,7 @@ tr:first-child th:first-child {
         page-break-after: avoid;
     }
     
-    igure img { border: 1px solid #999999;}
+    figure img { border: 1px solid #999999;}
     figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
 
     .needscontent { 
