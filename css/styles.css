@@ -852,7 +852,7 @@ tr:first-child th:first-child {
     .back {
         display: none;
     }
-    
+}
 @media only screen and (min-width: 768px) {
     body {
         font-size: 18px;
