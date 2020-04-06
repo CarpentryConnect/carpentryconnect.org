@@ -6,9 +6,11 @@ permalink: /contributing/
 
 <section class="intro">
 	<p>
-		When contributing to this CarpentryConnect Website repository, please first discuss the change you wish to make with this repository's maintainers via <a href="/issues">this repository's issue tracker</a> or <a href ="mailto:community@carpentries.org">email</a> before dedicating time to make big, time-consuming changes.
+		When contributing to this CarpentryConnect Website repository, please first discuss the change you wish to make with this repository's maintainers via <a href="https://github.com/CarpentryConnect/carpentryconnect.org/issues">this repository's issue tracker</a> or <a href ="mailto:community@carpentries.org">email</a> before dedicating time to make big, time-consuming changes.
 	</p>
 </section>
+
+Is anything missing from this first version of our CarpentryConnect Planning Kit? Email [community@carpentries.org](mailto:community@carpentries.org) or open an issue on the [CarpentryConnect Planning Kit repository](https://github.com/CarpentryConnect/carpentryconnect.org) on GitHub and we will work together to improve the resource. Community contributions are also welcome. You can find sections to contribute to, and information on how to start contributing in the [contributing section](/contributing/) of the CarpentryConnect Planning Kit.
 
 ## About the Code Base
 
