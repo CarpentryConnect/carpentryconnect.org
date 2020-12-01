@@ -149,7 +149,7 @@ Here are some community facilitator roles, and checklists for responsibilities t
 
 ### Code of Conduct Facilitators
 
-Code of Conduct Facilitators](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md#recommendation-2-volunteer-code-of-conduct-facilitators) serve as an added layer of support to report incidents to the Code of Conduct Committee (CoCc). Code of Conduct Facilitators actively monitor online spaces during the event and are the in-person point of contact to provide support and guidance to report potential breach of the Code of Conduct to the CoCc. To efficiently serve as a bridge with the CoCc, Code of Conduct facilitators:
+[Code of Conduct Facilitators](https://github.com/carpentries/task-forces/blob/master/2019/incidents-outside-cocc/2019-09-19-cocc-taskforce-summary-recommendations.md#recommendation-2-volunteer-code-of-conduct-facilitators) serve as an added layer of support to report incidents to the Code of Conduct Committee (CoCc). Code of Conduct Facilitators actively monitor online spaces during the event and are the in-person point of contact to provide support and guidance to report potential breach of the Code of Conduct to the CoCc. To efficiently serve as a bridge with the CoCc, Code of Conduct facilitators:
 - liaise with the call hosts and introduce themselves at start of the event and summarise event Code of Conduct to session attendees
 - provide clear and straightforward ways for people to reach out to flag CoC issues in the virtual session
 	- preferably in a separate place from the event chat
