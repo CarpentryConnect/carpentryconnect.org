@@ -184,7 +184,7 @@ Work with other session
 ### Time Keepers
 
 - design an efficient but non-disruptive way to notify presenters and other community facilitators about time remaining, and to stop discussions when time is up
-	- consider setting up cuckoo.com which runs a countdown at the top of the frame of a presenters' screen to inform them how much time is left
+	- consider setting up [cuckoo.team](https://cuckoo.team) which runs a countdown at the top of the frame of a presenters' screen to inform them how much time is left
 	- alternatively, keep timekeeper can keep a counter and type in chat to notify call host and presenter that it is time to wind up or halt a session
 - meets with the call host and presenters before the virtual session to discuss 
 	- verbal cues and modes of communication about time left during the session
