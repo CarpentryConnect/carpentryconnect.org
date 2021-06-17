@@ -317,6 +317,7 @@ Just like this resource and The Carpentries website, both website templates will
 In the meantime, we recommend using these as a template:
 - [Agency Jekyll Theme](https://startbootstrap.com/template-overviews/agency/), a one-page Jekyll website theme that was used for [CarpentryCon 2018's website](http://2018.carpentrycon.org/)
 - [Project Zepelin's theme](https://github.com/gdg-x/zeppelin), a multi-page Jekyll website theme that was used for [CarpentryCon 2020's website](https://2020.carpentrycon.org)
+- [This MIT-licensed custom theme](https://github.com/CarpentryConnect/za.carpentryconnect.org), a one-page Jekyll website theme that was used for [CarpentryCon 2021's website](http://za2021.carpentryconnect.org/)
 
 ### Domain for your CarpentryConnect Website
 
