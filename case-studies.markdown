@@ -23,7 +23,7 @@ Dates: 11 February 2020
 
 Location: Dunedin, New Zealand
 
-Event website:[eresearchnz2020.org.nz/registration/pre-conference-workshops/](https://www.eresearchnz2020.org.nz/registration/pre-conference-workshops/)
+Event website: [eresearchnz2020.org.nz/registration/pre-conference-workshops/](https://www.eresearchnz2020.org.nz/registration/pre-conference-workshops/)
 
 Blog post about the event can be found here
 
@@ -42,7 +42,7 @@ Event website: [software.ac.uk/ccmcr19](https://software.ac.uk/ccmcr19)
 Blog posts about the event include:
 
 - Aleksandra Nenadic's [CarpentryConnect Manchester 2019 Highlights](https://carpentries.org/blog/2019/07/ccmcr2019-highlights/)
-- Malvika Sharan's[Connecting with the Community at CarpentryConnect in Manchester](https://carpentries.org/blog/2019/09/carpentryconnect-manchester/)
+- Malvika Sharan's [Connecting with the Community at CarpentryConnect in Manchester](https://carpentries.org/blog/2019/09/carpentryconnect-manchester/)
 
 
 For any questions about specific elements around the planning of this event, [please contact Aleksandra Nenadic and Giacomo Peru](mailto:admin-uk@carpentries.org), Regional Coordinators for the UK.
