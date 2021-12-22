@@ -25,8 +25,6 @@ Location: Dunedin, New Zealand
 
 Event website:[eresearchnz2020.org.nz/registration/pre-conference-workshops/](https://www.eresearchnz2020.org.nz/registration/pre-conference-workshops/)
 
-Blog post about the event can be found here
-
 For any questions about specific elements around the planning of this event, [please contact Megan Guidry](maito:admin-nz@carpentries.org), Regional Coordinator for New Zealand.
 
 ## CarpentryConnects in 2019
