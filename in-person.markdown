@@ -455,4 +455,5 @@ Depending on the locale selected for your CarpentryConnect event, you may need t
 
 ## More Planning Resources 
 
+- [Email tempaltes for Carpentries Workshop Administration](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts)
 - OpenCon's [elaborate guide to organising satelite events](https://www.opencon2018.org/satellite)
