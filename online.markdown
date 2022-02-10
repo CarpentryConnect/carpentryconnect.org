@@ -98,7 +98,7 @@ Here are ways you can prioritise accessibility as you plan virtual events:
   - Are you able to share speaker slides or reading material in advance so they have context for what is being presented?
   
 - **Choose an accessible online meeting platform** i.e. go for platforms that have integrated captioning, screen reader compatibility, and multiple ways of communicating with and engaging participants. Take these options into consideration when choosing a platform.
-- **Invest in interpreters, live captioners and live translators** where possible. Interpreters in virtual settings might make it possible for multiple-language representation at your event. Plan for good visibility of the speakers and interpreters. Zoom provides automatic captioning of calls, read more [here](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#closed-captioning).
+- **Invest in interpreters, live captioners and live translators** where possible. Interpreters in virtual settings might make it possible for multiple-language representation at your event. Plan for good visibility of the speakers and interpreters. Zoom provides automatic captioning of calls, read more [here](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#closed-captioning). We recommend to always turn on live captioning at the beginning of each call. 
   - Who should have their video and audio on and when during sessions?
   - How can you best place the speaker and sign language interpreter on the screen, especially when the speaker is also sharing their screen to show slides?
 - **Inform speakers of accessibility requests that have been made** and the accommodations that you are making available as the event organiser.
