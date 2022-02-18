@@ -101,9 +101,12 @@ An informal discussion group, typically at a conference, based on a shared inter
 
 ### CarpentryConnect or Not?
 
-Before you dive into specific sections, use this flowchart to determine whether the event you have in mind qualifies as a CarpentryConnect:
+Before you dive into specific sections, use this flowchart to determine whether the event you have in mind qualifies as a CarpentryConnect event:
 
-![carpentryconnect or not flowchart](/img/carpentryconnect-or-not.png)
+![The figure shows a flowchart that helps determine if your event is a CarpentryConnect event. Is the event for Instructor Training? If yes, it is not a CarpentryConnect event. If not, will the event cover materials listed in our curricula for a day or more? If yes, it is not a CarpentryConnect event. If not, will networking last for over a few hours? If yes, it is not a CarpentryConnect event. If not, will the event include 1 or more days of discussion and community building by community members from a city or region? If yes, sounds like a CarpentryConnect event! If no, reach out to the Carpentries Core Team about your idea by emailing community@carpentries.org.
+]({{ site.url }}{{ site.baseurl }}/img/carpentryconnect-or-not.png)
+_Carpentryconnect or not flowchart. To enlarge image, right click and select open image in new tab._
+
 
 ### Where to Start
 
