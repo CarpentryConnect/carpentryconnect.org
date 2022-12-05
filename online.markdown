@@ -350,6 +350,7 @@ Here's a checklist to help virtual event organisers plan for post-event wrap up 
 
 ## Other Helpful Resources 
 - [Email templates for Carpentries Workshop Administration](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts)
+- The Carpentries [Certificate Repository](https://github.com/carpentries/learner-certificates): When hosting Data, Library or Software Carpentries workshops as part of your event you can provide learners with attendance certificates. 
 - [How to run a free academic online conference](https://docs.google.com/document/d/1EABkSzEdJk5cmMLETpSbXaeDXmFwcTz7SUXP_C3dN9k/edit)
 - Dev.To's [Types of Online Events and How to Get Started](https://dev.to/elishatan/moving-your-developer-events-online-here-are-some-ideas-to-get-started-1iie)
 - [How to plan engaging virtual events](https://enterprisersproject.com/article/2020/3/how-plan-virtual-events)
