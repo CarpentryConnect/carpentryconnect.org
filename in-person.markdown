@@ -457,4 +457,6 @@ Depending on the locale selected for your CarpentryConnect event, you may need t
 
 - [Email templates for Carpentries Workshop Administration](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts)
 - OpenCon's [elaborate guide to organising satelite events](https://www.opencon2018.org/satellite)
+- The Carpentries [Certificate Repository](https://github.com/carpentries/learner-certificates): When hosting Data, Library or Software Carpentries workshops as part of your event you can provide learners with attendance certificates. 
 - [Budget template](https://docs.google.com/spreadsheets/d/1j5WoMnz-l734uUx5mjflRmW8gHw90aUJnb3-im7Zzvw/edit) for your event
+
