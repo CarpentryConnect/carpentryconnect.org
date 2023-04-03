@@ -15,6 +15,49 @@ figure img { border: 1px solid #999999;}
 figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
 </style>
 
+## CarpentryConnects in 2023
+
+### CarpentryConnect New Zealand
+
+Dates: 14 February 2023
+
+Location: Online
+
+Event website: [https://www.eresearchnz2023.org.nz/carpentry-connect/](https://www.eresearchnz2023.org.nz/carpentry-connect/)
+
+For any questions about specific elements around the planning of this event, [please contact eresearchnzconference@auckland.ac.nz](mailto:eresearchnzconference@auckland.ac.nz)
+
+
+## CarpentryConnects in 2021
+
+### CarpentryConnect New Zealand
+
+Dates: 9 February 2021
+
+Location: Wellington, New Zealand and Online
+
+Event website: [https://www.nesi.org.nz/news/2021/02/highlights-carpentry-connect-2021-bringing-together-new-zealands-digital-skills](https://www.nesi.org.nz/news/2021/02/highlights-carpentry-connect-2021-bringing-together-new-zealands-digital-skills)
+
+For any questions about specific elements around the planning of this event, [please contact Megan Guidry](mailto:megan.guidry@nesi.org.nz)
+
+### CarpentryConnect South Africa
+
+Dates: 6-17 September 2021
+
+Location: Online
+
+Event website: [carpentryconnectza.org](https://za2021.carpentryconnect.org)
+
+Blog posts about the event include:
+
+- [Carpentries Connect South Africa 2021 opening and closing keynotes now available in isiXhosa and isiZulu](https://www.codeforsociety.org/eventfund/updates/carpentries-connect-south-africa-2021-opening-and-closing-keynotes-now-available-in-isixhosa-and-isizulu) by Angela Okune
+- [CarpentryConnect South Africa 2021 in Review](https://eresearch.uwc.ac.za/2021/10/06/carpentry-connect-south-africa-2021-in-review/) by the University of the Western Cape
+- [CarpentryConnect South Africa 2021 - A global event](https://carpentries.org/blog/2021/09/carpentryconnect/) by Angelique Trusler
+- [Highlighting our strategic plan efforts to support local community building](https://carpentries.org/blog/2021/07/Highlighting-our-strategic-plan-efforts-to-support-local-community-building/) by Kari L. Jordan and Angelique Trusler
+- [Registration for CarpentryConnect South Africa 2021 now open!](https://carpentries.org/blog/2021/06/CarpentryConnectSouthAfrica/) by Angelique Trusler
+
+For any questions about specific elements around the planning of this event, [please contact Angelique Trusler](mailto:admin-afr@carpentries.org), African Capacity Development Manager.
+
 ## CarpentryConnects in 2020
 
 ### CarpentryConnect Dunedin
@@ -25,7 +68,7 @@ Location: Dunedin, New Zealand
 
 Event website: [eresearchnz2020.org.nz/registration/pre-conference-workshops/](https://www.eresearchnz2020.org.nz/registration/pre-conference-workshops/)
 
-For any questions about specific elements around the planning of this event, [please contact Megan Guidry](maito:admin-nz@carpentries.org), Regional Coordinator for New Zealand.
+For any questions about specific elements around the planning of this event, [please contact Megan Guidry](mailto:megan.guidry@nesi.org.nz)
 
 ## CarpentryConnects in 2019
 
@@ -59,7 +102,7 @@ Blog posts about the event include:
 
 - Anelda van der Walt and Juan Steyn's [CarpentryConnect Johannesburg 2018: Building Bridges for Digital and Computational Literacy](https://carpentries.org/blog/2019/01/carpentryconnect-jhb2018/)
 
-For any questions about specific elements around the planning of this event, [please contact Angelique van Rensburg](mailto:admin-afr@carpentries.org), Regional Coordinator for Southern Africa, and she will help get information from organisers of this event.
+For any questions about specific elements around the planning of this event, [please contact Angelique Trusler](mailto:admin-afr@carpentries.org), African Capacity Development Manager, and she will help get information from organisers of this event.
 
 
 ### CarpentryConnect Davis
