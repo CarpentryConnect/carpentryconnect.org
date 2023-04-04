@@ -56,7 +56,7 @@ Blog posts about the event include:
 - [Highlighting our strategic plan efforts to support local community building](https://carpentries.org/blog/2021/07/Highlighting-our-strategic-plan-efforts-to-support-local-community-building/) by Kari L. Jordan and Angelique Trusler
 - [Registration for CarpentryConnect South Africa 2021 now open!](https://carpentries.org/blog/2021/06/CarpentryConnectSouthAfrica/) by Angelique Trusler
 
-For any questions about specific elements around the planning of this event, [please contact Angelique Trusler](mailto:admin-afr@carpentries.org), African Capacity Development Manager.
+For any questions about specific elements around the planning of this event, [please contact admin-afr@carpentries.org](mailto:admin-afr@carpentries.org.
 
 ## CarpentryConnects in 2020
 
