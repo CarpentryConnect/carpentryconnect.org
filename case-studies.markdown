@@ -100,7 +100,7 @@ Blog posts about the event include:
 
 - Anelda van der Walt and Juan Steyn's [CarpentryConnect Johannesburg 2018: Building Bridges for Digital and Computational Literacy](https://carpentries.org/blog/2019/01/carpentryconnect-jhb2018/)
 
-For any questions about specific elements around the planning of this event, [please contact Angelique Trusler](mailto:admin-afr@carpentries.org), African Capacity Development Manager, and she will help get information from organisers of this event.
+For any questions about specific elements around the planning of this event, [please contact admin-afr@carpentries.org](mailto:admin-afr@carpentries.org). 
 
 
 ### CarpentryConnect Davis
