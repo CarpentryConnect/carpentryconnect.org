@@ -38,7 +38,7 @@ Location: Wellington, New Zealand and Online
 
 Event website: [https://www.nesi.org.nz/news/2021/02/highlights-carpentry-connect-2021-bringing-together-new-zealands-digital-skills](https://www.nesi.org.nz/news/2021/02/highlights-carpentry-connect-2021-bringing-together-new-zealands-digital-skills)
 
-For any questions about specific elements around the planning of this event, [please contact Megan Guidry](mailto:megan.guidry@nesi.org.nz)
+For any questions about specific elements around the planning of this event, [please contact info@nesi.org.nz](mailto:info@nesi.org.nz)
 
 ### CarpentryConnect South Africa
 
@@ -67,8 +67,6 @@ Dates: 11 February 2020
 Location: Dunedin, New Zealand
 
 Event website: [eresearchnz2020.org.nz/registration/pre-conference-workshops/](https://www.eresearchnz2020.org.nz/registration/pre-conference-workshops/)
-
-For any questions about specific elements around the planning of this event, [please contact Megan Guidry](mailto:megan.guidry@nesi.org.nz)
 
 ## CarpentryConnects in 2019
 
