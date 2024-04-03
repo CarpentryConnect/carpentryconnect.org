@@ -23,7 +23,7 @@ figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
 
 Dates: 21-23 May 2024
 
-Location: In-person
+Location: In-person and Online
 
 Event website: [https://www.eventbrite.com.au/e/ardc-digital-research-skills-summit-2024-tickets-806190035097](https://www.eventbrite.com.au/e/ardc-digital-research-skills-summit-2024-tickets-806190035097)
 
