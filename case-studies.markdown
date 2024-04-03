@@ -15,6 +15,32 @@ figure img { border: 1px solid #999999;}
 figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
 </style>
 
+
+
+## CarpentryConnects in 2024
+
+### CarpentryConnect Australia
+
+Dates: 21-23 May 2024
+
+Location: In-person and Online
+
+Event website: [https://www.eventbrite.com.au/e/ardc-digital-research-skills-summit-2024-tickets-806190035097](https://www.eventbrite.com.au/e/ardc-digital-research-skills-summit-2024-tickets-806190035097)
+
+For any questions about specific elements around the planning of this event, [please contact contact@ardc.edu.au](mailto:contact@ardc.edu.au)
+
+
+### CarpentryConnect Heidelberg
+
+Dates: 12-14 November 2024
+
+Location: In-person
+
+Event website: [https://biont-training.eu/event-details/CarpentryConnect2024)/](https://biont-training.eu/event-details/CarpentryConnect2024)
+
+For any questions about specific elements around the planning of this event, [please contact digiorgio@zbmed.de](mailto:digiorgio@zbmed.de)
+
+
 ## CarpentryConnects in 2023
 
 ### CarpentryConnect New Zealand
