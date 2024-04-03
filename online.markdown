@@ -273,7 +273,7 @@ Work with other session
 - Determine the best formats and tools to use to transcribe live sessions online
 - Coordinate with communications facilitators  and call hosts to introduce these tools to session presenters and conduct a dry run
 - Communicate clearly about how session attendees can access live transcriptions from the virtual sessions 
-- Review recorded sessions, adding incorrect transcriptions before these are shared publicly.
+- Review recorded sessions, adding in the correct transcriptions before these are shared publicly.
 
 ### Break Facilitators
 
