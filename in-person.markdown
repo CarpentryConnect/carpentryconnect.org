@@ -78,6 +78,8 @@ Sometimes the outcome of your first discussion is a decision to organise a small
 
 You can find our Virtual CarpentryConnect Planning Kit [here](/online).
 
+</div>
+
 ## Keep Accessibility in Mind
 
 At The Carpentries, we are committed to building a diverse, equitable, and inclusive community that values all individuals and their unique identities. We prioritise accessibility and inclusivity in our curricula and programs and value transparency, fairness, and honesty to build trust within our community. Building an inclusive community is an ongoing process that requires consistent effort and commitment, and we strive for continuous improvement.
@@ -96,9 +98,6 @@ If you have questions or need assistance with the accommodation form please [ema
 
 ### Resources
 [The Carpentries Toolkit of IDEAS | Zenodo](https://zenodo.org/records/10391883) The Toolkit of IDEAS (Inclusion, Diversity, Equity and Accessibility Strategies) is a practical resource for Carpentries Instructors, helpers, and workshop hosts. We know that many people care about inclusion, diversity, equity, and accessibility but are not sure how they connect to teaching foundational coding and data science skills. This toolkit aims to bridge this gap. This is version 1, which means it is a starting point, not a fully comprehensive resource. The hope is that the Core Team and community members will continue to update and extend this resource over time.
-
-
-</div>
 
 ## Decide on Session Formats
 
