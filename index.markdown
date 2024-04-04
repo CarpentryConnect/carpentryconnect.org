@@ -101,7 +101,7 @@ An informal discussion group, typically at a conference, based on a shared inter
 
 ### Where to Start
 
-We have prepared a flowchart to help you understand how to interact with this resource with opportunities for everyone to benefit or contribute, so read on!
+We have prepared a flowchart to help you understand how to interact with this resource with opportunities for everyone to benefit or contribute, so read on! To view a larger image, open in a new tab. 
 
 ![interacting with the carpentryconnect planning kit](/img/interacting-with-this-resource.png)
 
