@@ -19,7 +19,7 @@ figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
 
 ## CarpentryConnects in 2024
 
-### CarpentryConnect Australia
+### AU-Aotearoa CarpentryConnect
 
 Dates: 21-23 May 2024
 
