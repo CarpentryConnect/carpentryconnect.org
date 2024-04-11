@@ -41,7 +41,7 @@ This two-part checklist suggests preparatory tasks you can embark on before divi
 
 ### I just had an idea to bring people together in a CarpentryConnect!
 
-- [optional] In case this would be valuable for you, schedule a call with our Director of Community Development and Engagement to discuss your idea and chat about your wishlist and next steps. You can do that by emailing [community@carpentries.org](mailto:community@carpentries.org) 
+- [optional] In case this would be valuable for you, schedule a call with our Community Manager to discuss your idea and chat about your wishlist and next steps. You can do that by emailing [community@carpentries.org](mailto:community@carpentries.org) 
 - Reach out to community members via The Carpentries Slack channel or TopicBox to share your idea and interest in finding others to help organise a CarpentryConnect in your region, and include as many details as possible
 - Once you have identified several community members that would be interested,
 	- create an Etherpad on pad.carpentries.org and share it in the email asking people to share their ideas and questions around the CarpentryConnect proposal in it. More information on what Etherpads are, and how we use them in The Carpentries [can be found here](https://docs.carpentries.org/topic_folders/communications/tools/etherpads.html).
