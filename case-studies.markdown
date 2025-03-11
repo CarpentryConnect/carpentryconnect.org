@@ -15,6 +15,17 @@ figure img { border: 1px solid #999999;}
 figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
 </style>
 
+## CarpentryConnects in 2025
+
+### AU-Aotearoa CarpentryConnect
+
+Dates: 10 February 2025
+
+Location: In-person and Online
+
+Event website: [https://eresearchnz.co.nz/nz-carpentry-connect/](https://eresearchnz.co.nz/nz-carpentry-connect/)
+
+For any questions about specific elements around the planning of this event, [please contact Dr Nisha Ghatak](mailto:nisha.ghatak@nesi.org.nz)
 
 
 ## CarpentryConnects in 2024
