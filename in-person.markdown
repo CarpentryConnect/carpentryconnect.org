@@ -66,7 +66,7 @@ This two-part checklist suggests preparatory tasks you can embark on before divi
 
 ### I am in the early stages of planning for a CarpentryConnect!
 
-This section assumes that you have an idea about these four things for your event: city,  venue, date range and community members to help you put together a CarpentryConnect event. If not, [start here](/in-person#IjusthadanideatobringpeopletogetherinaCarpentryConnect). Let the Community Development Team in The Carpentries know that you have an idea for or are planning a CarpentryConnect by emailing [community@carpentries.org](mailto:community@carpentries.org) with as many details as possible. 
+This section assumes that you have an idea about these four things for your event: city,  venue, date range and community members to help you put together a CarpentryConnect event. If not, [start here](/in-person#IjusthadanideatobringpeopletogetherinaCarpentryConnect). Let the Community Engagement Team in The Carpentries know that you have an idea for or are planning a CarpentryConnect by emailing [community@carpentries.org](mailto:community@carpentries.org) with as many details as possible. 
 - As you have some intricate details at hand already, consider writing a blog post detailing your knowns and unknowns, and with clear calls to action about how others can get involved. We have prepared a few prompts [in this Google doc](https://docs.google.com/document/d/1Yl4EnbeDdjHxoxinTIS7Meu68gfqwmCvHULQ2f1Lenc/edit?usp=sharing) to guide the writing of your blog post. Submit your blog post for publishing on The Carpentries blog by emailing [community@carpentries.org](mailto:community@carpentries.org).
 - Dive into the rest of the In-person CarpentryConnect Planning Kit!
 
@@ -398,7 +398,7 @@ If you answered yes to any of these prompts, congratulations! You have identifie
 
 ### Brainstorm with The Carpentries Core Team
 
-Email [community@carpentries.org](mailto:community@carpentries.org) with your request to chat about possible session themes for your CarpentryConnect event and  members of the Community Development Team in The Carpentries will avail themselves for a chat with your local/regional event organisers.
+Email [community@carpentries.org](mailto:community@carpentries.org) with your request to chat about possible session themes for your CarpentryConnect event and  members of the Community Engagement Team in The Carpentries will avail themselves for a chat with your local/regional event organisers.
 
 ## Creating a Website for Your CarpentryConnect Event
 
