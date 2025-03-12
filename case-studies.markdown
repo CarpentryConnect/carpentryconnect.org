@@ -152,7 +152,7 @@ Blog post about the event include:
 
 - Hao Ye's [recap of CarpentryConnect Davis](https://www.uf-carpentries.org/posts/2018-07-03-carpentryconnectdavis/)
 
-For any questions about specific elements around the planning of this event, [please contact the Community Development Team](mailto:community@carpentries.org), and we will help get information from organisers of this event.
+For any questions about specific elements around the planning of this event, [please contact the Community Engagement Team](mailto:community@carpentries.org), and we will help get information from organisers of this event.
 
 
 
