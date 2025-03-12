@@ -15,6 +15,17 @@ figure img { border: 1px solid #999999;}
 figure figcaption { font-style: italic; font-size: 0.85em; text-align: center;}
 </style>
 
+## CarpentryConnects in 2025
+
+### AU-Aotearoa CarpentryConnect
+
+Dates: 10 February 2025
+
+Location: In-person and Online
+
+Event website: [https://eresearchnz.co.nz/nz-carpentry-connect/](https://eresearchnz.co.nz/nz-carpentry-connect/)
+
+For any questions about specific elements around the planning of this event, [please contact Dr Nisha Ghatak](mailto:nisha.ghatak@nesi.org.nz)
 
 
 ## CarpentryConnects in 2024
@@ -141,7 +152,7 @@ Blog post about the event include:
 
 - Hao Ye's [recap of CarpentryConnect Davis](https://www.uf-carpentries.org/posts/2018-07-03-carpentryconnectdavis/)
 
-For any questions about specific elements around the planning of this event, [please contact the Community Development Team](mailto:community@carpentries.org), and we will help get information from organisers of this event.
+For any questions about specific elements around the planning of this event, [please contact the Community Engagement Team](mailto:community@carpentries.org), and we will help get information from organisers of this event.
 
 
 
